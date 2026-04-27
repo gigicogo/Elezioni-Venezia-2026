@@ -56,8 +56,8 @@
 
 ### Titolo del documento
 - **Data: 27/04/20226**  
-- **Fonte originale: Facebook ** 
-- **URL: https://www.facebook.com/insiemeideepersoneTV/posts/pfbid0CR2QKUrHtWHDCALw7RWj6FCR9N1cR8csQ9Xg4CNeZkvy1ieZ3diqrskEqkpkjnGBl?rdid=hRmIPXY4WKaLoI4T/ **  
+- **Fonte originale: Facebook** 
+- **URL: https://www.facebook.com/insiemeideepersoneTV/posts/pfbid0CR2QKUrHtWHDCALw7RWj6FCR9N1cR8csQ9Xg4CNeZkvy1ieZ3diqrskEqkpkjnGBl?rdid=hRmIPXY4WKaLoI4T/**  
 - **Tipo di documento: Post pubblico**
 - **Documento collegato nel repository: [Comunicati] (https://github.com/gigicogo/Elezioni-Venezia-2026/Comunicati)**  
 - **Stato: verificato**
