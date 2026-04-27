@@ -1,12 +1,19 @@
 # Siti web ufficiali dei candidati
 
-Venturini Simone
+Venturini Simone - https://simoneventurinisindaco.it/
+
 Martella Andrea - https://martellasindaco.it
+
 Boldrin Michele - https://ora-italia.it/boldrin-sindaco/
+
 Vernier Claudio - https://cittavive.it
+
 Agirmo Roberto -
+
 Martini Giovanni Andrea - 
+
 Del Zotto Pierangelo -
+
 Corò Luigi -
 
 
