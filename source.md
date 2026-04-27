@@ -13,7 +13,8 @@
 - **Fonte originale:**  
 - **URL: https://simoneventurinisindaco.it/**  
 - **Tipo di documento: Sito web**
-- **Documento collegato nel repository: /programmi-ufficiali**  
+- **Documento collegato nel repository: [Programmi-fficiali] (https://github.com/gigicogo/Elezioni-Venezia-2026/edit/main/source.md)
+/programmi-ufficiali**  
 - **Stato:** (verificato)
 - **Note:**  
 
