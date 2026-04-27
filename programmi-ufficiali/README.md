@@ -1,6 +1,19 @@
+# Siti web ufficiali dei candidati
+
+Venturini Simone
+Martella Andrea - https://martellasindaco.it
+Boldrin Michele - https://ora-italia.it/boldrin-sindaco/
+Vernier Claudio - https://cittavive.it
+Agirmo Roberto -
+Martini Giovanni Andrea - 
+Del Zotto Pierangelo -
+Corò Luigi -
+
+
 # Programmi ufficiali
 
-Venturini
+Venturini - consultabile su Camaleo: https://www.calameo.com/read/0074045053be264fd2bf3 
+
 Martella - scaricabile in PDF: https://martellasindaco.it/wp-content/uploads/2026/04/programma_martella_2026.pdf  
 
 Vernier - consultabile sul sito ma non scaricabile come file
