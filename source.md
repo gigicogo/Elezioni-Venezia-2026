@@ -11,14 +11,14 @@
 - **Data:27/04/20226**  
 - **URL: https://simoneventurinisindaco.it/**  
 - **Tipo di documento: Sito web**
-- **Documento collegato nel repository: [Programmi-ufficiali] (https://github.com/gigicogo/Elezioni-Venezia-2026/)**  
+- **Documento collegato nel repository: [Programmi-ufficiali] [(https://github.com/gigicogo/Elezioni-Venezia-2026/)](https://github.com/gigicogo/Elezioni-Venezia-2026/tree/main/programmi-ufficiali)**  
 - **Stato: verificato**
 - **Note:**  
 
 ### ### Martella Andrea
 - **Data:27/04/20226**  
 - **URL: https://martellasindaco.it/**
-- **Documento collegato nel repository: [Programmi-ufficiali] (https://github.com/gigicogo/Elezioni-Venezia-2026/)**  
+- **Documento collegato nel repository: [Programmi-ufficiali] [(https://github.com/gigicogo/Elezioni-Venezia-2026/)](https://github.com/gigicogo/Elezioni-Venezia-2026/tree/main/programmi-ufficiali)**  
 - **Stato:** (verificato)  
 - **Tipo di documento: Sito web**  
 - **Note:**  
@@ -26,7 +26,7 @@
 ### ### Boldrin Michele
 - **Data:27/04/20226**  
 - **URL: https://ora-italia.it/boldrin-sindaco/**
-- **Documento collegato nel repository: [Programmi-ufficiali] (https://github.com/gigicogo/Elezioni-Venezia-2026/)**  
+- **Documento collegato nel repository: [Programmi-ufficiali] [(https://github.com/gigicogo/Elezioni-Venezia-2026/)](https://github.com/gigicogo/Elezioni-Venezia-2026/tree/main/programmi-ufficiali)**  
 - **Stato: verificato**
 - **Tipo di documento: Sito web**  
 - **Note:**  
@@ -35,7 +35,7 @@
 - **Data:27/04/20226**  
 - **Fonte originale:**  
 - **URL: https://cittavive.it/**
-- **Documento collegato nel repository: [Programmi-ufficiali] (https://github.com/gigicogo/Elezioni-Venezia-2026/programmi-ufficiali)**  
+- **Documento collegato nel repository: [Programmi-ufficiali] [(https://github.com/gigicogo/Elezioni-Venezia-2026/programmi-ufficiali)](https://github.com/gigicogo/Elezioni-Venezia-2026/tree/main/programmi-ufficiali)**  
 - **Stato: verificato**
 - **Tipo di documento: Sito web**  
 - **Note:**  
