@@ -14,3 +14,4 @@ Raggruppa tutto in un documento di sintesi, in formato markdown e scaricabile, s
 - `2026 Aprile 27 - Mistral_deep-research-report`: sintesi dei programma e delle dichiarazioni.
 - `2026 Aprile 27 - Deepseek_deep-research-report`: sintesi dei programma e delle dichiarazioni.
 - `2026 Aprile 27 - Qwen_deep-research-report`: sintesi dei programma e delle dichiarazioni.
+- `2026 Aprile 27 - Claude_deep-research-report`: sintesi dei programma e delle dichiarazioni.
