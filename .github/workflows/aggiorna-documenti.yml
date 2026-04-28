@@ -3,7 +3,9 @@ name: Aggiorna documents.json
 on:
   push:
     paths:
-      - 'materiali/**'
+      - 'Comunicati/**'
+      - 'DeepResearch/**'
+      - 'programmi-ufficiali/**'
       - '.github/workflows/aggiorna-documenti.yml'
   workflow_dispatch:
 
@@ -23,34 +25,39 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Crea documents.json dai testi
+      - name: Crea documents.json dai file markdown
         run: |
           python <<'PY'
           import os, json
 
-          cartella = "materiali"
+          cartelle = ["Comunicati", "DeepResearch", "programmi-ufficiali"]
           output = "site/documents.json"
           documenti = []
 
-          for nome in sorted(os.listdir(cartella)):
-              if not nome.endswith(".md"):
-                  continue
-              if nome == "README.md":
+          for cartella in cartelle:
+              if not os.path.isdir(cartella):
                   continue
 
-              percorso = os.path.join(cartella, nome)
-              with open(percorso, "r", encoding="utf-8") as f:
-                  testo = f.read().strip()
+              for nome in sorted(os.listdir(cartella)):
+                  if not nome.endswith(".md"):
+                      continue
+                  if nome == "README.md":
+                      continue
 
-              righe = [r.strip() for r in testo.splitlines() if r.strip()]
-              titolo = righe[0].replace("#", "").strip() if righe else nome
-              corpo = " ".join(righe[1:]).strip() if len(righe) > 1 else testo[:500]
+                  percorso = os.path.join(cartella, nome)
 
-              documenti.append({
-                  "title": titolo,
-                  "source": nome,
-                  "text": corpo
-              })
+                  with open(percorso, "r", encoding="utf-8") as f:
+                      testo = f.read().strip()
+
+                  righe = [r.strip() for r in testo.splitlines() if r.strip()]
+                  titolo = righe[0].replace("#", "").strip() if righe else nome
+                  corpo = " ".join(righe[1:]).strip() if len(righe) > 1 else testo[:2000]
+
+                  documenti.append({
+                      "title": titolo,
+                      "source": f"{cartella}/{nome}",
+                      "text": corpo[:4000]
+                  })
 
           with open(output, "w", encoding="utf-8") as f:
               json.dump(documenti, f, ensure_ascii=False, indent=2)
