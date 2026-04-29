@@ -2,6 +2,8 @@
 Borchia (Lega): «Propaganda, scelta irresponsabile». 
 Bellomo (Pd): «Noi diamo un calcio alle paure»
 
+di Alda Vanzan
+
 Dopo Roma, quella di Venezia è la comunità di bangladesi più numerosa del Paese: “complici” la Fincantieri ma anche i tanti ristoranti in centro storico dove i più hanno trovato inizialmente lavoro come lavapiatti, si contano 20mila residenti in Comune, di cui 3mila già con la cittadinanza italiana e, quindi, potenziali elettori. Un serbatoio di voti non indifferente per chi aspira a prendere lo scranno di Luigi Brugnaro a Ca’ Farsetti, ma che si scontra con culture diverse e progetti contestati. Come la moschea che la comunità del Bangladesh vorrebbe costruire a Mestre: sarebbe la più grande d’Italia, un progetto da 10-15 milioni di euro capace di accogliere oltre 1.500 persone, senza minareto né cupole, contro cui la Lega ha concentrato la propria campagna elettorale, tappezzando gli autobus di linea.
 
 Non bastasse il tempio islamico, a far discutere sono anche i “santini” elettorali preparati dai candidati bangladesi in lista con il Partito Democratico a sostegno di Andrea Martella e scritti non in italiano, ma in Bangla lipi. È il quinto sistema di scrittura più usato al mondo, in laguna ha scatenato un putiferio. I commenti più civili sono stati di questo tenore: vivete in Italia, mandate i vostri figli nelle nostre scuole, gestite negozi e ristoranti, se volete farvi votare in consiglio comunale di Venezia o nelle varie Municipalità dovreste scrivere gli appelli in italiano, non con i “geroglifici”.
