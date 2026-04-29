@@ -6,19 +6,23 @@ SIMONE VENTURINI SINDACO
 VISIONE - Venezia 2026: Avanti Insieme per Costruire il Futuro
 Il 2026 rappresenta uno snodo epocale per la nostra città: alle urne non si deciderà semplicemente
 l1amministrazione dei prossimi cinque anni, ma si determinerà il futuro delle prossime generazioni.
+
 La nostra visione è chiara: confermare Venezia quale grande capitale internazionale, con l1obiettivo
 vitale di attrarre e trattenere una cittadinanza attiva e dinamica, puntando su giovani, innovazione,
 identità e coesione sociale, garantendo una gestione attenta della finanza pubblica del Comune, della
 Città metropolitana, delle società partecipate, così come di Enti e Fondazioni per non creare debiti
 improduttivi che poi dovrebbero pagare le prossime generazioni e partendo dalla valorizzazione dei
 dipendenti e dei dirigenti.
+
 Per centrare questo traguardo, la nostra strategia è precisa: dobbiamo governare il cambiamento
 puntando con coraggio su attività economiche e industriali innovative, ad alto valore aggiunto, sul
 rafforzamento del tessuto sociale cittadino, sull'attrazione di grandi investimenti internazionali capaci di
 avviare una profonda rigenerazione urbana, economica e sociale del nostro territorio.
+
 Vogliamo scongiurare il rischio di una Città immobile, prigioniera delle sue paure, ostaggio dei
 particolarismi e vittima del "partito del no", che sarebbe così condannata ad un inesorabile declino
 economico e sociale.
+
 La scelta che abbiamo di fronte è inequivocabile: assumersi la responsabilità di continuare a far crescere
 la Città o arrendersi al declino.
 
