@@ -1,0 +1,327 @@
+﻿
+**
+
+# Una visione sistemica per la nostra comunità
+
+**
+
+Per salvare e rilanciare la(e) nostra(e) città, non possiamo più procedere per compartimenti stagni. Le sfide della nostra comunità sono anelli di un’unica catena. Il nostro programma si fonda su una logica conseguenziale: dall’ecosistema della nostra comunità alla creazione di nuove risorse, dall’uso di tecnologie sovrane per  **gestire i flussi**  fino al recupero della casa, per arrivare, infine, alla vera sicurezza sociale.
+
+Un piano che parte dalle basi,  **Ambiente**, **Risorse**, **Economia** e **Società**  per arrivare a risolvere i problemi principali delle nostre città:  **Casa, Lavoro, Sicurezza**  e **Comunità**.
+
+#### Ecco come trasformeremo la città, passo dopo passo:
+
+# La laguna come opportunità e infrastruttura urbana
+
+##### Prima di parlare di economia, turismo o urbanistica, dobbiamo riconoscere il nostro contesto esistenziale. Il nostro territorio è un ecosistema antropico unico costruito con e sull’acqua. La nostra è, per sua natura storica e futura, una comunità anfibia in cui tutto deve partire dalla difesa del nostro ecosistema e dalla creazione di una base economica che ci renda indipendenti dalla monoindustria turistica.
+
+**L’acqua non è il confine fisico che separa la città lagunare da Mestre o da Marghera, ma l’elemento che unisce il nostro arcipelago urbano.  
+**In questa visione, la transizione ecologica e la manutenzione della Laguna non sono una “voce di programma”, ma la precondizione per la nostra sopravvivenza. Non dobbiamo “difenderci” dall’acqua, ma tornare a  _governarla_  come la nostra principale infrastruttura urbana. Dalle barriere adattive al ripristino morfologico delle barene, dall’efficientamento energetico dei palazzi storici fino ai tetti verdi e ai sistemi di drenaggio nella Terraferma: ogni scelta politica, abitativa e industriale di questa amministrazione sarà sottesa da questa consapevolezza. La Serenissima prosperava sull’intelligenza delle risorse; oggi recuperiamo quel metodo per garantire una resilienza climatica integrata al 2050.
+
+#### **L’ambiente lagunare non è un vincolo, ma la nostra più grande infrastruttura urbana e climatica. Da qui riparte l’economia.**
+
+**Oltre il MOSE: un Panel Internazionale per la resilienza al 2050.**
+
+I cambiamenti climatici in corso influenzeranno in modo drastico il destino, la morfologia e l'economia della nostra città. Governare Venezia significa avere il coraggio di guardare oltre la durata di un singolo mandato elettorale. Dobbiamo porci oggi la domanda che la politica tradizionale ignora: quale sarà il nostro modello di sviluppo, logistico e diportistico, quando tra pochi decenni il MOSE dovrà alzarsi tre o quattro giorni alla settimana per ripararci dall'innalzamento dei mari?
+
+Non possiamo farci trovare impreparati. Per mantenere le nostre Città Vive, l'evoluzione del clima e le sue ricadute sulla laguna e sulla terraferma non devono essere subite, ma anticipate e governate.  **Per questo, istituiremo un Panel internazionale e interdisciplinare di scienziati di chiara fama (climatologi, ingegneri ambientali e idraulici, oceanografi, biologi, economisti).**
+
+**Non sarà l'ennesima commissione teorica, ma una vera e propria Task Force operativa.**  Avrà un mandato stringente di un anno per realizzare studi sul campo, analisi di modelli predittivi e presentare all'Amministrazione un masterplan di soluzioni pratiche, cantierabili e rigorosamente quantificate nei costi.
+
+Questo investimento scientifico, stimato in circa 1 milione di euro e che finanzieremo direttamente tramite il Fondo di Compensazione o risorse comunitarie, non è un costo, ma il più grande moltiplicatore economico per il nostro futuro. I risultati del Panel diventeranno infatti la base tecnica inconfutabile che la nostra  **Agenzia per Venezia Capitale Europea**  utilizzerà per intercettare i miliardi di euro dei fondi europei necessari a blindare la sicurezza idraulica e climatica della nostra comunità nei decenni a venire
+
+**Governare l’acqua e il verde:**  Stop alle soluzioni tampone. Per la Laguna, attueremo un piano di ripristino morfologico continuo (barene e superfici intertidali). Per la Terraferma, creeremo una Rete Verde Metropolitana Integrata, usando i parchi come bacini di laminazione per mitigare il rischio idraulico, incentivando con sgravi fiscali tutti quegli interventi che mirino all’efficientamento energetico
+
+**Plastic Free e Igiene Urbana:**  Trasformeremo la città abbattendo l’uso della plastica monouso, che incide pesantemente sui costi di trasporto rifiuti e inquina i canali, incentivando l’uso di fontanelle e depuratori domestici/commerciali (modello nordeuropeo).
+
+**Transizione di Porto Marghera e Vega Reboot:**  Porto Marghera non è archeologia, ma il motore della transizione ecologica. Attireremo logistica sostenibile, cantieristica verde ed economia circolare, lavorando a lungo termine per un hub portuale off-shore progressivo. Rilanceremo il Centro Vega come polo attrattivo per l’hi-tech e le startup.
+
+**Murano Green:**  Autonomia energetica e innovazione della filiera.  
+Il distretto del vetro di Murano, probabilmente la più antica attività produttiva rilevante rimasta a Venezia, ha rischiato il collasso a causa della speculazione energetica, con il costo del gas decuplicato (fino a 2,8 euro/m3 nel 2022) e tuttora soggetto a pericolose oscillazioni geopolitiche. Per salvare le nostre fornaci, non bastano i sussidi temporanei: serve una visione infrastrutturale per una "Murano ecosostenibile".  
+Il Comune si farà promotore e facilitatore di un piano di indipendenza energetica con energia pulita che non solo consentirà la decarbonizzazione del distretto, ma renderà possibile la sperimentazione di innovativi "forni ibridi", capaci di utilizzare il gas per la lavorazione e l'energia elettrica per il mantenimento notturno delle temperature. A questo affiancheremo la creazione di un Fondo di Garanzia municipale per calmierare i prezzi durante le crisi energetiche e incentiveremo l'intera logistica lagunare della filiera a convertirsi a imbarcazioni elettriche o a propulsione alternativa. Murano diventerà il primo distretto vetrario al mondo a potersi fregiare di una produzione realmente sostenibile, trasformando un costo in un clamoroso vantaggio competitivo sui mercati internazionali.
+
+**Il Porto 24/7, le ZLS e l'hub per il refitting dei mega-yacht sostenibili**  Il Porto è vita, è laguna, ed è la prima vera industria non turistica della nostra città. Di fronte alle sfide dei cambiamenti climatici, con un medio mare aumentato di oltre 20-30 cm negli ultimi cinquant'anni e un utilizzo sempre più frequente del sistema Mose, è vitale garantire che le banchine possano essere attive e lavorare 24 ore su 24, adattandosi alle maree astronomiche. Affiancheremo a questa operatività la spinta per le Zone Logistiche Speciali (ZLS/Zes) e la valorizzazione delle navi della classe Venezia.
+
+Parallelamente, ridaremo vigore all'indotto marittimo ad alto valore aggiunto riaprendo gli spazi della Marittima ai mega-yacht privati, ma a una condizione ferrea e in linea con la nostra transizione ecologica: accoglieremo queste imbarcazioni solo se in grado di collegarsi ai generatori a terra (spegnendo i motori) o se il loro arrivo è vincolato all'utilizzo dei nostri cantieri per operazioni di  _refitting_  sostenibile e conversione verde. Vogliamo intercettare questo mercato per creare lavoro specializzato, promuovendo l'insediamento di fondazioni e poli dedicati allo yachting sostenibile sul nostro territorio.
+
+**Difesa della Cantieristica Minore:**  Tuteleremo i saperi tradizionali dei maestri d’ascia e l’artigianato lagunare, integrandoli in una nuova filiera di sostenibilità nautica e trasporto con tecnologie foil.
+
+#### Polo dell'Innovazione Nautica Sostenibile
+
+La fragilità del nostro ecosistema lagunare e i danni incalcolabili causati dal moto ondoso alle fondamenta della città non possono più essere affrontati esclusivamente attraverso i limiti di velocità. Dobbiamo avere il coraggio di ripensare la mobilità acquea partendo dai mezzi stessi, che hanno ormai raggiunto limiti strutturali evidenti. Per farlo, non ci limiteremo a difendere i preziosi saperi tradizionali della nostra cantieristica, ma li proietteremo nel futuro, trasformando Venezia in un polo industriale e direzionale di livello mondiale per la produzione di imbarcazioni sostenibili.
+
+La rivoluzione tecnica partirà dall'abbandono degli attuali scafi plananti di compromesso, che pur garantendo velocità in laguna risultano inefficienti e gravemente dannosi alle basse velocità nei rii urbani. Promuoveremo lo sviluppo di due piattaforme navali tecnologicamente distinte: imbarcazioni altamente manovrabili, a propulsione elettrica o a idrogeno, studiate millimetricamente per operare a basse velocità nei canali interni; e scafi avanzati per le alte velocità in laguna, progettati per abbattere le emissioni e l'impatto ondoso.
+
+Per guidare questa transizione istituiremo il  **Polo dell'Innovazione Nautica Sostenibile**, un vero e proprio hub industriale e di ricerca insediato strategicamente a Porto Marghera o negli spazi dell'Arsenale. Questo polo non si limiterà alla progettazione teorica, ma produrrà fisicamente piattaforme navali sostenibili, realizzate con materiali rinnovabili e riciclabili, che verranno poi affidate ai cantieri locali per l'allestimento finale su misura.
+
+Così facendo, innescheremo una filiera industriale completa: supporteremo la riconversione ecologica dell'attuale flotta passeggeri (pubblica e privata), creeremo nuove competenze occupazionali sul territorio e, soprattutto, esporteremo e venderemo in tutto il mondo i nuovi standard della navigazione a zero impatto. Venezia deve tornare a essere non solo la capitale mondiale della sostenibilità, ma il cantiere navale dell'innovazione globale.
+
+#### All’interno di questo scenario vitale, si snodano le azioni del nostro programma:
+
+# Amministrare le città vive
+
+##### La centralizzazione amministrativa ha progressivamente svuotato di potere i territori, allontanando le istituzioni dai cittadini e generando sfiducia. Per riaccendere la partecipazione dei cittadini, dobbiamo ribaltare questa dinamica trasformando radicalmente la concezione delle Municipalità: non devono più essere meri sportelli burocratici o organi decorativi, ma veri e propri “Laboratori Civici di Quartiere”. Ecco come articoliamo la visione complessiva per rivitalizzare i territori e massimizzare il coinvolgimento civico:
+
+**Municipalità forti: da sportelli a motori decisionali con portafoglio.**  
+Ogni Municipalità sarà dotata di un “budget vincolato”, assicurando fondi annuali garantiti per le manutenzioni minute, il decoro urbano, le micro-opere e le iniziative sociali o culturali del territorio. Affiancheremo a queste risorse una macchina amministrativa di prossimità: ogni quartiere avrà uffici stabili, un Responsabile Unico di Procedimento (RUP) dedicato agli interventi locali e un calendario pubblico delle priorità. Introdurremo il principio dei “tempi certi e tracciabilità”: ogni proposta votata dalla Municipalità dovrà ricevere una risposta formale entro scadenze inequivocabili e, in caso di rifiuto, l’amministrazione sarà obbligata a renderne pubbliche le motivazioni. Attraverso lo streaming delle sedute e piattaforme digitali per i dati aperti e lo stato dei progetti, riporteremo il livello decisionale a contatto diretto con i cittadini, garantendo la coesione del Comune ma azzerando le distanze.
+
+**Il Bilancio Partecipato come strumento strutturale di “sovranità civica”  
+**Il cuore dell’ingaggio cittadino sarà il Bilancio Partecipato (governato dalle municipalità), che dobbiamo promuovere non come un “esperimento episodico” o una concessione calata dall’alto, ma come uno strumento stabile, strutturale e regolamentato. La nostra proposta è di vincolare una quota fissa degli investimenti comunali (con un target iniziale dell’1%) a progetti proposti e votati unicamente dalla cittadinanza. La strategia comunicativa dovrà valorizzare l’articolazione su un “doppio livello”: un budget destinato alle singole Municipalità per curare le micro-esigenze strettamente locali, e uno su scala cittadina per i progetti trasversali. Progetteremo un processo blindato e trasparente: dalla raccolta delle proposte alla verifica tecnica ed economica pubblica, fino alla votazione e al monitoraggio. Ogni opera avrà una “scheda pubblica” online con costi previsti, tempistiche di realizzazione e stato di avanzamento, dimostrando concretamente come l’amministrazione esegue la volontà degli elettori.
+
+**Attivismo civico integrato e Consulte permanenti**  
+Per valorizzare il mondo dell’associazionismo e del civismo attivo, dobbiamo istituzionalizzare la partecipazione continua. Promuoveremo i “Patti civici di quartiere”, accordi diretti tra i cittadini, il Comune e le associazioni locali per la co-gestione e la cura condivisa degli spazi, del verde pubblico e per il presidio della sicurezza. Oltre a questo, proporremo l’istituzione di Consulte permanenti dotate di mandato chiaro (su temi nevralgici come residenzialità, turismo, mobilità e giovani), composte da rappresentanti associativi, categorie economiche e, in modo innovativo, cittadini selezionati tramite sorteggio civico. Queste consulte non saranno una vetrina, ma avranno poteri di iniziativa propositiva e di monitoraggio pubblico sui piani dell’amministrazione. Tutto l’ecosistema partecipativo sarà ibrido: sfrutterà una piattaforma digitale open-source per la tracciabilità delle proposte, alimentata dalle risorse tecnologiche del Comune, ma prenderà vita fisicamente nelle “Case di quartiere” o “Case del Comune”, spazi multifunzionali pensati per ospitare sportelli civici, coworking, laboratori e assemblee territoriali.
+
+# Le risorse e la sovranità
+
+##### Per finanziare questa trasformazione e sostenere il territorio, serve giustizia economica. Non possiamo più permettere che colossi economici estraggano enorme valore lasciandoci in eredità solo i costi sociali e ambientali. Le multinazionali delle piattaforme turistiche, le grandi catene dell’hotellerie, ma anche i giganti dell’industria e del grande retail che non solo nel nostro Comune sfruttano il “brand Venezia”, devono contribuire in modo strutturale a un Fondo di Compensazione amministrato direttamente da un organo competente del Comune.
+
+#### **Non chiediamo beneficenza, ma imponiamo un patto di civiltà**  per arginare l’usura del patrimonio pubblico, l’inquinamento e la crisi abitativa. Chi genera profitti a sei zeri consumando la nostra città, ha il dovere di reinvestire per mantenerla viva: è buon senso, se la comunità muore, crollerà anche il loro modello di business, siamo convinti che un’amministrazione con un forte mandato debba e possa trattare da pari con chiunque faccia profitto fregiandosi del nome di Venezia.
+
+Questi fondi saranno riallocati seguendo un rigoroso criterio di solidarietà (priorità alle zone in condizioni emergenziali, degradate e con redditi più bassi) per risolvere prima le reali emergenze sociali.
+
+In aggiunta al Fondo di Compensazione prevediamo un’iniziativa strategica che può anticipare e favorire il percorso dello  **Statuto Speciale per la Città di Venezia**  e contribuire a tutelare i cittadini veneziani:  
+**la richiesta di un pieno e concreto riconoscimento della specificità insulare di Venezia, in linea con la modifica dell’articolo 119 della Costituzione che impegna la Repubblica a riconoscere le peculiarità delle isole e a promuovere misure per rimuoverne gli svantaggi.**
+
+Questo status formale è ritenuto fondamentale per compensare i pesanti extracosti logistici, abitativi e sociali affrontati quotidianamente da chi vive, lavora e studia sull’isola. Questa specificità ci potrà consentire di richiedere l’adozione di un modello di  **autonomia fiscale ispirato a quello di Livigno**  (zona franca ed extradoganale dal 1910). Il nostro modello d’azione si concentra su misure concrete di sostegno. In primo luogo, proponiamo  **l’esenzione dell’IVA e l’eliminazione delle accise statali sui carburanti**, interventi che ridurrebbero il costo medio al litro, attualmente superiore di 30-50 centesimi rispetto alla terraferma. Parallelamente, intendiamo attivare  **sgravi fiscali per le imprese locali**  e garantire loro un accesso esclusivo alle risorse del Fondo di Compensazione. Infine, richiederemo  **fondi governativi immediati per il riconoscimento di indennità ai dipendenti dei servizi pubblici**(sanità, trasporti, forze dell’ordine) che operano in contesti con condizioni disagiate.
+
+# Venezia capitale europea
+
+##### Non possiamo più permetterci di disperdere risorse vitali a causa di improvvisazione o miopia politica. Per questo istituiremo un’**Agenzia per Venezia Capitale Europea**: una struttura permanente e di altissimo profilo tecnico, con il mandato esclusivo di intercettare, vincere e mettere a terra i grandi bandi continentali e di cooperare con le aziende del territorio per massimizzare anche a livello privato la raccolta di opportunità in UE.
+
+Questa task force comunale non si limiterà a compilare scartoffie, ma progetterà lo sviluppo strategico della città, assicurando che ogni progetto presentato sia inattaccabile, cantierabile e, soprattutto, utile alla cittadinanza.
+
+**Questa Agenzia sarà il motore istituzionale che darà forza alla nostra strategia di riconquista della città. Lavorerà in sinergia diretta con i nostri strumenti di finanza locale, come il Fondo di Compensazione e il co-investimento etico e i fondi ESG per la residenzialità, creando un ecosistema in cui i fondi pubblici europei e i capitali privati internazionali si fondono con un unico obiettivo: generare ricadute economiche e sociali tangibili.**  Se da un lato chiamiamo il mondo a investire nel recupero delle nostre case, dall’altro l’Agenzia assicurerà che le risorse europee finanzino la rigenerazione urbana, la transizione ecologica della Laguna e il welfare di prossimità.
+
+Venezia, Mestre e Marghera devono smettere di essere la scenografia passiva per i profitti altrui e tornare a essere il centro nevralgico della produzione e dell’innovazione. L’Agenzia fungerà da acceleratore per il nostro tessuto economico, affiancando le imprese del territorio nello sviluppo di partnership strategiche internazionali e intessendo reti stabili con altre capitali europee. Strapperemo definitivamente la città alla sua condanna di sterile “cartolina” turistica per restituirla al mondo come una metropoli anfibia efficiente, sviluppata e viva, dove l’attrazione di capitali si traduce in lavoro di qualità e infrastrutture all’avanguardia per chi la abita.
+
+#### Il portafoglio europeo: mappare e vincere le risorse
+
+La creazione dell'**Agenzia per Venezia Capitale Europea**  non è un mero esercizio burocratico, ma il motore istituzionale per finanziare la rinascita della nostra comunità. Per attuare il nostro nuovo paradigma, dalla rigenerazione urbana al welfare di prossimità, fino alla transizione ecologica, non faremo promesse vuote, ma andremo ad attingere esattamente dove risiedono i capitali per lo sviluppo. Sapremo mappare, intercettare e vincere le risorse che l'Unione Europea mette a bando annualmente, portandole finalmente sul nostro territorio per trasformarle in cantieri, servizi e lavoro.
+
+Il nostro piano d'azione si concentrerà immediatamente sui seguenti assi strategici di finanziamento:
+
+**1. Rigenerazione Urbana e Infrastrutture Sostenibili**  Per riqualificare il nostro patrimonio edilizio e ripensare gli spazi di Venezia, Mestre e Marghera, l'Agenzia punterà direttamente alle risorse della Politica di Coesione 2021-2027, che prevede oltre 392 miliardi di euro complessivi, con l'obbligo di destinare almeno l'8% del FESR (Fondo Europeo di Sviluppo Regionale) a strategie urbane sostenibili. Nello specifico, intercetteremo:
+
+-   **European Urban Initiative (EUI):**  Parteciperemo ai bandi per progetti pilota e innovativi, puntando ad esempio alle call specifiche (come la EUI-IA Call 4 di inizio 2026) che mettono a disposizione decine di milioni di euro per l'innovazione urbana.
+-   **Fondi PNRR e Risorse Nazionali:**  Sfrutteremo l'onda lunga degli 11,8 miliardi del PNRR destinati alla rigenerazione urbana e attingeremo ai fondi nazionali recentemente istituiti (80 milioni tra il 2025 e il 2026), oltre a intercettare le riallocazioni strategiche del marzo 2026, che hanno sbloccato 3,3 miliardi specifici per alloggi sostenibili e inclusione sociale, fondamentali per il nostro Piano Abitativo.
+-   **Sviluppo di aree dismesse:**  Utilizzeremo bandi specifici europei (che cubano centinaia di milioni) e il  _Just Transition Fund_  per la conversione e la bonifica produttiva di Porto Marghera.
+
+**2. Welfare, Inclusione e Terzo Settore**  Il rilancio della residenzialità passa per una solida rete di welfare quotidiano. Finanzieremo i nostri presidi sociali e le attività per giovani e anziani attraverso:
+
+-   **Fondo Sociale Europeo Plus (FSE+):**  È il nostro pilastro principale. Con una dotazione UE di 142,7 miliardi, lo utilizzeremo, passando anche per i Programmi Regionali, per sostenere l'inclusione sociale, la formazione e l'inserimento lavorativo gestito dal nostro tessuto associativo e cooperativo.
+-   **Fondi per l'Economia Sociale e il Terzo Settore:**  Il Comune farà da facilitatore per permettere alle nostre associazioni ed Enti del Terzo Settore di accedere al Fondo Nazionale dedicato (141 milioni stanziati per il triennio fino al 2026) e alle risorse degli Atti di Indirizzo ministeriali.
+
+**3. Innovazione, Competenze e Microcredito**  Venezia deve tornare a essere un laboratorio per nuove imprese e creatività. Sosterremo l'artigianato, le start-up tecnologiche (specialmente nel comparto marittimo e del vetro) e le imprese sociali attraverso:
+
+-   **InvestEU e Programma EaSI:**  Garantiremo alle nostre imprese sociali l'accesso al credito agevolato, attingendo ai 2,8 miliardi di  _InvestEU_  per le competenze e ai finanziamenti diretti fino a 500.000 euro per progetto previsti dal programma EaSI.
+-   **Horizon Europe ed Erasmus+:**  Inseriremo le nostre istituzioni culturali e i nostri giovani in un network globale. Attingeremo ai cluster dedicati alla "società inclusiva e creativa" del programma Horizon (95,5 miliardi totali) e sfrutteremo i fondi di Erasmus+ (26,2 miliardi) e del Corpo Europeo di Solidarietà per progetti di mobilità, volontariato e cooperazione transnazionale.
+
+----------
+
+# La tecnologia al servizio del cittadino
+
+##### Per gestire una nuova economia e governare le esternalità, la macchina del Comune deve evolversi in un esempio di best practice e trasparenza: una “casa di vetro” che governa e non subisce il cambiamento. Passeremo da un’imperfetta “Smart City”, città intelligente, a un esemplare  **“Wise City”**, una città saggia. L’Intelligenza Artificiale sarà la spina dorsale di questo cambiamento.
+
+Il primo passo sarà costituire un Comitato Tecnologico ed Etico per l’Innovazione per creare un’infrastruttura digitale sovrana, in linea con l’AI Act europeo.
+
+Inorridiamo al pensiero di invitare i colossi multinazionali a nutrirsi dei dati dei nostri cittadini come accade adesso ogni volta che interagiamo con i grandi modelli linguistici commerciali.
+
+All’interno del Comune,  **implementeremo sistemi RAG**  (Retrieval-Augmented Generation) per abbattere la burocrazia e sfruttare appieno i dati e gli archivi, permettendo ai dipendenti pubblici, il cui ruolo sarà valorizzato tramite formazione specifica, di erogare servizi puntuali, rivolgendosi soprattutto alle fasce vulnerabili e alle nuove imprese e agli operatori economici che non dovranno più aspettare mesi per creare lavoro e ricchezza per la comunità.
+
+All’esterno, la  **Smart Control Room**  smetterà di essere una “caverna di Batman” high-tech per diventare una vera piattaforma predittiva, capace di anticipare i flussi, contrastare l’abusivismo e tutelare l’ecosistema. L’uso etico dell’IA non sarà sorveglianza, ma  **“IA partecipativa**”. In quest'ottica, la tecnologia diventerà il nostro scudo per proteggere le rive, i canali e l'ecosistema lagunare.
+
+Introdurremo un registro unico dei natanti, uno strumento fondamentale per una gestione più efficiente, trasparente e controllata del traffico acqueo. Questo sarà affiancato dall’ampliamento del sistema Si.Sa., che verrà integrato progressivamente con sistemi alternativi basati su tecnologie GPS, capaci di migliorare il monitoraggio, tracciare le infrazioni e organizzare i flussi nautici con precisione chirurgica.
+
+Sul fronte ambientale, la Control Room riceverà dati in tempo reale da nuove centraline installate per il monitoraggio della qualità dell’aria, fornendo una conoscenza esatta dell’impatto delle attività umane sulla laguna e sulla città. Infine, incroceremo questi dati per sviluppare un nuovo piano del traffico merci in ottica premiante: non solo sanzioni per chi inquina o crea moto ondoso, ma incentivi per i comportamenti virtuosi, favorendo e premiando quegli operatori logistici che scelgono mezzi innovativi e sostenibili per rifornire la nostra città.
+
+**Venezia può tornare ad innovare, ma sull’immediato in Europa ci sono moltissimi progetti già attivi da cui imparare e con cui collaborare da subito:**
+
+**1. SOVRANITÀ, ETICA E GOVERNANCE DEL DATO**
+
+•  **Amsterdam (Olanda)**  - il Tada Manifesto (2017), co-creato e basato su inclusività, controllo cittadino, trasparenza e legittimità nell’uso dei dati, integrato nelle politiche e procedure comunali.
+
+•  **Barcellona (Spagna)**  - Barcellona è pioniera nella tutela dei diritti umani nell’IA. Un protocollo classifica i rischi algoritmici, vietando l’IA “a rischio inaccettabile” (es. riconoscimento facciale indiscriminato) e richiedendo studi d’impatto e registri pubblici per l’alto rischio
+
+**2. EFFICIENZA DELLA Pubblica Amministrazione**
+
+•  **Estonia - Il modello “Bürokratt”**: L’Estonia rappresenta il vertice del passaggio dall’egovernment all’AI-government. Ha lanciato Bürokratt, una rete nazionale di assistenti virtuali IA interoperabili che funge da punto di accesso unico per centinaia di servizi pubblici. Grazie alla robusta infrastruttura di scambio dati (X-Road) e alle identità digitali, il sistema estone non attende le richieste del cittadino, ma opera in modo “proattivo”, offrendo autonomamente il rinnovo di documenti o l’accesso a sussidi basandosi su eventi di vita reali incrociati nei database.
+
+•  **Francia - L’IA Sovrana per i Dipendenti Pubblici (Progetti “Albert” e “Services Publics+”)**: La Francia ha sviluppato Albert, un’IA generativa basata su modelli linguistici open-source europei (come Mistral), per i funzionari pubblici. Utilizzando dati statali (IA sovrana), cerca regolamenti, redige riassunti e risposte per i cittadini. Con Services Publics+, l’IA assiste 2,5 milioni di dipendenti pubblici (human-in-the-loop). Ciò ha ridotto i tempi di risposta medi da 19 a 3 giorni, aumentando la soddisfazione dei cittadini.
+
+**3. MOBILITÀ, FLUSSI E GESTIONE PREDITTIVA DEL TERRITORIO**
+
+•  **Helsinki (Finlandia) - Mobility-as-a-Service (MaaS)**: Per rivoluzionare la mobilità, Helsinki ha implementato il sistema MaaS (tramite l’app Whim), integrando trasporto pubblico e privato, inclusi autobus, metropolitane e mobilità dolce, in un’unica piattaforma di pianificazione e pagamento. Il successo è misurabile: la proprietà di automobili tra i giovani è crollata del 20%.
+
+•  **Londra (Regno Unito) - Ottimizzazione del Traffico con Edge AI**: Transport for London (TfL) utilizza algoritmi predittivi per analizzare le condizioni delle strade in tempo reale. Sfruttando l’intelligenza artificiale per l’ottimizzazione dei cicli semaforici e la previsione degli incidenti, la città ha registrato una riduzione del 12% dei ritardi da congestione e un taglio dell’8% delle emissioni di CO2.
+
+**4. SOSTENIBILITÀ, RESILIENZA URBANA E GEMELLI DIGITALI**
+
+• Rotterdam (Olanda) - Prevenzione Alluvioni tramite Reti Neurali (FReSco): Di fronte all’innalzamento dei mari, Rotterdam ha integrato modelli semantici 3D con simulazioni di inondazioni, creando il Flood Resilience Score (FReSco). Utilizzando avanzate reti neurali LSTM, il sistema prevede l’andamento del deflusso e delle piogge con eccezionale precisione, permettendo all’amministrazione di quantificare l’impatto potenziale su edifici e infrastrutture critiche prima che il disastro avvenga, abilitando evacuazioni o chiusure preventive delle barriere.
+
+• **Helsinki (Finlandia) - Il Gemello Digitale “Helsinki 3D+”**: La capitale finlandese ha sviluppato un gemello digitale ad altissima fedeltà, con una precisione di 10 centimetri, aggiornato in modo automatizzato in base alle modifiche degli edifici. Questo strumento viene utilizzato per simulare l’incidenza dei raggi solari sui tetti (per l’installazione del fotovoltaico), modellare la dispersione dell’inquinamento atmosferico e acustico, e simulare scenari di decarbonizzazione del riscaldamento urbano per raggiungere l’obiettivo della Carbon Neutrality entro il 2035.
+
+• **Barcellona (Spagna) - Manutenzione Predittiva dell’Acqua e dei Rifiuti**: Nel distretto 22@ e in tutta la città, l’uso dell’IoT per l’irrigazione intelligente analizza i dati meteo e l’umidità del suolo per irrigare i parchi solo quando necessario, abbassando i consumi idrici del 33%. Per i rifiuti, Barcellona utilizza un algoritmo (XGBoost) capace di prevedere il riempimento dei cassonetti con un’accuratezza del 94,1%; ciò ha ridotto del 50% gli eventi di traboccamento dei rifiuti e diminuito l’uso di carburante per la flotta di raccolta del 15,5%.
+
+•  **Vienna (Austria) - Indicatori per la Smart Klima City**: La “Smart City Wien Framework Strategy” usa un approccio radicalmente scientifico: ogni obiettivo climatico, energetico o di equità sociale è associato a indicatori di performance misurabili (KPI). Il monitoraggio non è un mero allegato, ma il meccanismo vincolante che forza l’amministrazione a ricalibrare i budget e gli investimenti (es. espansione delle reti ciclabili e riqualificazioni energetiche) se i dati mostrano un allontanamento dagli obiettivi di sostenibilità.
+
+#### La tecnologia produce valore pubblico solo se governata da forti politiche etiche, sostenuta dalla trasparenza, progettata insieme ai cittadini e focalizzata sulla resilienza del territorio.
+
+# Marketing territoriale: dalla svendita alla creazione di valore
+
+##### L’attuale modello di gestione degli eventi e delle sponsorizzazioni ha progressivamente ridotto la nostra città a un gigantesco spazio pubblicitario in saldo, dominato da logiche puramente estrattive volte unicamente a “fare cassa” attraverso un unico interlocutore monopolistico. Noi proponiamo un cambio di paradigma radicale:  **la creazione di un Ufficio di Marketing Territoriale di altissimo profilo strategico. Questa struttura lavorerà 365 giorni all’anno non per piazzare metri quadri di affissioni, ma per riposizionare globalmente la nostra identità.**L’obiettivo è smontare lo stereotipo della mera destinazione turistica per  **trasmettere al mondo l’immagine di una città vera, viva e contemporanea**: un ecosistema anfibio dove si fa ricerca, si produce e si respira la quotidianità.
+
+#### Il ruolo dell’amministrazione non deve essere quello di un concessionario pubblicitario che compete sul mercato, ma quello di un  **facilitatore dello sviluppo economico locale**.
+
+Creeremo invece un quadro normativo che incentivi la  **nascita e l’insediamento di nuove imprese, agenzie e start-up legate alla valorizzazione della nostra comunità con obbligo di sede legale nel nostro territorio.**  Delegheremo a questa rete di professionisti locali, residenti, la produzione di eventi, attività di marketing e iniziative collaterali, vincolandoli a standard di altissima sostenibilità e integrazione con la nostra cultura.
+
+In questo modo, il valore generato dai grandi flussi internazionali verrà massimizzato e servirà da capitale per innescare crescita trasformandosi in  **nuova occupazione di qualità, indotto strategico e ricchezza reale per la nostra comunità.**
+
+**Questa articolazione dei compiti e competenze avrà inoltre un effetto diretto sui flussi:**
+
+Prima ancora di governare i flussi fisici che attraversano i nostri quartieri e ambiscono ai nostri spazi, dobbiamo governare l’immaginario globale che li genera. Non possiamo più limitarci ad “accogliere” chi decide di arrivare, subendo passivamente l’etichetta di parco a tema o museo a cielo aperto.  **Dobbiamo riprenderci il controllo della conversazione globale e tornare a essere gli unici veri artefici della nostra identità.**
+
+L’equazione è spietata ma ineludibile: se il mondo ci percepisce come una città-vetrina in svendita, attireremo inevitabilmente consumatori distratti e voraci. Se, al contrario, proiettiamo con forza l’immagine di una comunità anfibia viva, complessa e fieramente produttiva, attiveremo un potentissimo filtro culturale preventivo. Dettare noi le regole della narrazione significa  **selezionare alla radice il nostro target: solo così attrarremo ospiti consapevoli, persone già educate a comprendere, vivere e rispettare il nostro ecosistema ancor prima di averci messo piede.**
+
+# La gestione dei flussi, cultura, tradizioni, commercio e turismo a voce unica
+
+##### Avere un’infrastruttura tecnologica predittiva ci permette, finalmente, di risolvere il nodo dell’overtourism e finanziare la cultura diffusa, salvando l’esistenza stessa della comunità. Introdurremo un sistema di  **prenotazione obbligatoria**  per i visitatori giornalieri, legato al nuovo “cervello” della città, che monitori la capacità di carico in tempo reale.
+
+#### **Il contributo di accesso**
+
+#### È tempo di smontare la  **narrazione ipocrita e fallimentare del “ticket d’ingresso”.**  Trattare Venezia come un parco a tema con un tornello all’entrata, concepito unicamente per fare cassa e tassare il sovraffollamento, rappresenta una**resa politica e culturale.**
+
+Il nostro modello capovolge radicalmente questa logica: il contributo di accesso non sarà mai una gabella a fondo perduto, ma un vero e proprio  **anticipo sui servizi**. Chi sceglie di visitare la nostra città acquisterà una _“Card”_  virtuale e dinamica, un investimento preliminare che gli verrà immediatamente restituito sotto forma di gratuità, servizi essenziali inclusi (come i bagni pubblici) e agevolazioni per i trasporti e la rete museale civica. Non stiamo imponendo un pedaggio per camminare, stiamo istituendo un patto di rispetto: chiediamo organizzazione per garantire un’esperienza dignitosa a chi visita e, soprattutto, la sopravvivenza a chi ci vive.
+
+Passare da una logica estrattiva a una puramente gestionale è l’unico metodo scientifico e misurabile per difendere la nostra fragile infrastruttura anfibia. La prenotazione obbligatoria, legittimata e bilanciata da questo anticipo sui servizi, ci fornisce la leva fondamentale per stabilire un tetto massimo di presenze giornaliere, calcolato sulla reale capacità di carico del territorio.  **Smettiamo di svendere l’esperienza urbana tollerando il caos.**  Il nostro approccio filtra i flussi, argina il turismo mordi-e-fuggi parassitario e trasforma l’escursionista disorganizzato in un ospite consapevole, integrato in un sistema che finanzia direttamente la manutenzione della città senza gravare sulle spalle dei residenti.
+
+Questo “anticipo” minimo sui servizi che potrà essere riscattato per vaporetti o attività culturali prevede inoltre  **un sistema di premialità e sconti o inviti ad eventi culturali diffusi nel territorio basato sul tracciamento di comportamenti sostenibili**  come ad esempio, il pernotto in strutture sostenibili come b&b e hotel indipendenti e locali, l’uso di mobilità ecologica, l’arrivo in periodi di minore pressione turistica e altre pratiche di sostenibilità applicata, ispirandosi al modello vincente di Copenhagen con  _Copenpay_.
+
+#### **Cultura e Sport, beni comune**
+
+Questo incentiverà una scoperta sostenibile della città, finanziando direttamente la trasformazione della  **Cultura in un bene comune**. Lontana dall’idea di privilegio o evento spot, la cultura sarà un’infrastruttura sociale decentralizzata in tutti i quartieri.
+
+Nel nostro nuovo sistema per la nostra comunità, ribaltiamo radicalmente questo paradigma elitario ed estrattivo: la cultura smette di essere un lusso o una merce e diventa una vera e propria  **infrastruttura sociale e un bene comune essenziale**. Il nostro obiettivo non è moltiplicare la quantità degli “eventi” in centro, ma costruire un ecosistema culturale stabile che generi benessere, combatta il degrado e includa chi oggi è emarginato.
+
+Ecco come tradurremo questa visione in un programma operativo:
+
+**Decentralizzazione: La cultura anche fuori dalla città d’acqua.  
+**Non possiamo continuare a concentrare ogni risorsa nel cuore insulare, già schiacciato dall’overtourism. La cultura deve servire a rigenerare i nostri quartieri e a presidiare il territorio. Svilupperemo una rete capillare di  **“presidi culturali di quartiere”**, trasformando spazi inutilizzati in piccole biblioteche di comunità e coworking culturali a Mestre, Marghera e nelle isole. In parallelo, finanzieremo una programmazione itinerante permanente, con cinema all’aperto, teatro nei cortili e laboratori nelle piazze periferiche, per riportare aggregazione, sicurezza e controllo sociale naturale nelle zone più a rischio.
+
+**Accessibilità Totale: Il Pass Culturale Cittadino.**  
+La cultura non deve essere respingente. Oggi barriere economiche e logistiche escludono troppi veneziani e mestrini. Per questo lanceremo il  **Pass Culturale Cittadino**: un unico abbonamento accessibile che integrerà l’ingresso a musei, concerti, cinema d’essai e teatri. A questo affiancheremo un abbattimento delle barriere logistiche, estendendo gli orari di apertura dei poli culturali nelle fasce serali e nei weekend per agevolare chi lavora, e istituendo speciali “navette culturali” per collegare i quartieri periferici agli eventi principali in totale sicurezza.
+
+**Da Consumatori a Produttori: Il protagonismo dei giovani.**  
+Un’amministrazione coraggiosa non si limita a far “consumare” cultura, ma stimola la produzione creativa locale, trattenendo i talenti che oggi fuggono. Istituiremo un sistema di  **micro-grant diretti (dai 300 ai 1000 euro)**, procedure snelle e deburocratizzate per finanziare le idee di giovani, studenti e gruppi informali. Inoltre, attiveremo laboratori permanenti (dalla scrittura al digitale, fino alla stampa 3D applicata alle arti) e “residenze artistiche di quartiere”, dove l’assegnazione degli spazi sarà vincolata a un patto chiaro: l’obbligo di produrre valore condiviso con gli abitanti del quartiere.
+
+**Cultura come Welfare e Cura Sociale.**  
+Questo è il nostro approccio più radicale e innovativo: integrare le politiche culturali con i servizi sociali. La fruizione dell’arte e della bellezza diventerà un vero e proprio strumento di  _welfare_  e di cura. Introdurremo specifici “voucher culturali” e creeremo programmi su misura dedicati alle fasce più fragili della nostra popolazione: i giovani NEET (in dispersione scolastica), le persone con disabilità e gli anziani soli. Affiancheremo a queste categorie la figura degli “educatori e facilitatori culturali”, professionisti formati per accompagnare i nuovi pubblici e garantire che nessuno venga lasciato indietro.
+
+**Lo sport come presidio sociale e argine al degrado**  La cultura non è l'unico argine all'emarginazione: le associazioni sportive dilettantistiche rappresentano una rete di presidi sociali capillari e insostituibili per le nostre comunità. Le precedenti amministrazioni hanno spesso ignorato queste realtà, privilegiando a fasi alterne iniziative d'élite e lasciando lo sport diffuso, praticato sul territorio, senza un reale sostegno economico. Noi cambieremo rotta: nel nostro programma, le associazioni sportive vengono equiparate ai presidi culturali come strumenti fondamentali contro il degrado e l'emarginazione giovanile. Sostenere lo sport di base significa finanziare la salute pubblica, creare luoghi di aggregazione sicuri e supportare le migliaia di volontari che ogni giorno fanno welfare sussidiario sul campo.
+
+Questo è il nostro pragmatismo civico applicato alla cultura: non più un orpello decorativo per le campagne di marketing turistico, ma lo strumento più potente che abbiamo per ricucire le fratture della nostra società, dando ai cittadini di Venezia e della Terraferma gli strumenti per riappropriarsi del proprio diritto alla città.
+
+In questo quadro si inserisce la difesa assoluta delle **tradizioni veneziane e delle eccellenze mondiali come Murano e Burano:**
+
+#### Il nostro patrimonio culturale e artigianale non è un reperto da museo ad uso e consumo dell’overtourism, ma una parte viva, pulsante e insostituibile dell’identità veneziana. Per troppo tempo abbiamo assistito passivamente alla scomparsa dei nostri mestieri storici, fagocitati dalla rendita immobiliare e dalla standardizzazione turistica. Con città vive la tradizione smette di essere nostalgia per tornare a essere un’infrastruttura produttiva strategica: settori d’eccellenza come il vetro, il tessile, la manifattura e la cantieristica devono essere protetti e proiettati nel futuro.
+
+#### Ecco l’architettura del nostro programma per il rilancio dell’artigianato e la tutela delle tradizioni cittadine:
+
+#### **Il “Diritto alla Bottega”: spazi pubblici, canoni calmierati e governance permanente.**
+
+Il primo e più grave ostacolo per i nostri artigiani è il costo inaccessibile dei fondi commerciali, che porta all’espulsione delle attività storiche. Il Comune smetterà di essere uno spettatore passivo e diventerà un regolatore attivo del mercato: acquisiremo immobili commerciali sfitti o sottoutilizzati per concederli in locazione a canoni calmierati specificamente a chi fa artigianato urbano e di prossimità.
+
+A questo affiancheremo una mappatura puntuale degli spazi disponibili per assegnare una destinazione urbanistica specifica per l'artigianato di prossimità. Dobbiamo superare la visione dell'artigianato come mero folklore: le imprese artigiane garantiscono un presidio quotidiano dello spazio urbano, contribuendo alla sicurezza, alla manutenzione diffusa e alla vitalità dei quartieri. Per gestire questa transizione, usciremo dalla logica dell'emergenza istituendo un tavolo di governance permanente sull'artigianato, che coinvolga sistematicamente le rappresentanze di categoria nei processi decisionali e monitori costantemente il numero di imprese attive sul territorio.
+
+#### **Lotta all'abusivismo commerciale e tutela del Vero Vetro di Murano.**
+
+Attualmente, il consumatore che visita la nostra città è ingannato da un mercato drogato in cui sono presenti ben 41 diciture diverse che richiamano falsamente una produzione muranese. Questa contraffazione svilisce l'intera economia locale. La nostra amministrazione attuerà una vera "tolleranza zero" contro la paccottiglia.
+
+Non ci limiteremo a scrivere delibere, ma lavoreremo per favorire la nascita una Task Force operativa interforze permanente, integrando Polizia Locale, Guardia di Finanza e Ufficio Dogane, per ispezionare capillarmente i negozi e sanzionare chi spaccia prodotti importati per artigianato locale.  
+Parallelamente, supporteremo in ogni sede istituzionale il potenziamento dell'attuale**marchio Vetro Artistico® Murano**  e sosterremo con tutto il nostro peso politico l'approvazione e l'implementazione del nuovo marchio IGP europeo per i prodotti artigianali, richiesto dal Consorzio a fine 2025. Chiuderemo i rubinetti del falso per restituire mercato e dignità a chi produce onestamente sulla nostra isola.
+
+#### **Passaggio Generazionale e Botteghe Didattiche.**
+
+I saperi tradizionali muoiono se non vengono tramandati. Non possiamo permettere che l’arte dei maestri d’ascia o dei maestri vetrai scompaia per mancanza di ricambio. Il nostro programma garantisce continuità a queste eccellenze attraverso la formazione di nuove generazioni di artigiani. Istituiremo una rete di “botteghe didattiche” supportate dall’amministrazione, affiancando a queste strutture incentivi economici diretti e percorsi formativi mirati per i giovani che decidono di dedicarsi alla manifattura e all’artigianato lagunare. Una spietata lotta alla contraffazione commerciale e il supporto concreto al marchio Vetro Artistico® Murano e sgravi per chi produce localmente saranno le prime azioni immediate da compiere. All’interno del libero mercato i controlli e il rispetto delle regole devono essere i pilastri di un rilancio commerciale che deve ripartire dalla legalità e di conseguenza da una concorrenza che per il mancato rispetto sfocia inevitabilmente in concorrenza sleale.
+
+#### **Innovazione e Filiere Circolari: La Cantieristica Verde.**
+
+La vera tradizione sa evolversi. L’artigianato del vetro e la lavorazione del legno lagunare diventeranno i pilastri di nuove filiere circolari locali, basate sul recupero dei materiali e sul riuso. Uniremo i saperi antichi della navigazione lagunare alle nuove sfide climatiche: sosterremo con forza la cantieristica verde, la cantieristica leggera e lo sviluppo di tecnologie marine. Questo processo coinvolgerà anche Porto Marghera, che vedrà le sue aree riqualificate per ospitare distretti di innovazione ambientale legati proprio a queste nuove forme di produzione sostenibile.
+
+#### **Vivere la Tradizione: Riconquistare la Laguna.**
+
+Le tradizioni veneziane non sono fatte solo di oggetti, ma di pratiche e stili di vita in armonia con l’acqua. Per proteggere questo ecosistema fragile e riappropriarci della nostra identità, affiancheremo alle politiche economiche anche azioni di fruizione consapevole dello spazio lagunare, come l’istituzione strutturale di “domeniche ecologiche a remi”. Queste giornate non saranno solo eventi simbolici, ma veri e propri strumenti per riscoprire la città senza l’impatto dei motori, riducendo inquinamento e moto ondoso, e celebrando la nostra storica cultura remiera.
+
+A queste iniziative affiancheremo un piano organico di gestione e tutela della navigazione lagunare: promuoveremo corsi di navigazione consapevole rivolti a cittadini e operatori, insieme a programmi strutturati di manutenzione dei canali e di miglioramento della segnaletica lagunare. La nostra tradizione non deve essere solo celebrata, ma tutelata attraverso la sicurezza, la sostenibilità e il rispetto dell’ambiente per garantire che i saperi legati all'acqua continuino a essere il fulcro dell'identità veneziana.
+
+# La residenzialità come infrastruttura
+
+##### Un turismo finalmente governato e un’economia diversificata ci forniscono le leve per affrontare  **la madre di tutte le battaglie: la residenzialità**.
+
+##### La rigenerazione urbana fallisce se si limita a lucidare i muri espellendo chi li abita. Il Comune deve tornare a fare il regista attraverso  **un vero e proprio Piano Abitativo Strutturale**, riaffermando che la casa è un bene d’uso vitale e non un mero asset speculativo. Questo piano partirà dallo sblocco immediato delle assegnazioni pubbliche e dal recupero massiccio degli alloggi sfitti o degradati, per ampliare e regolarizzare un’offerta pubblica oggi drammaticamente insufficiente.
+
+**Non possiamo più accettare che chi nasce e cresce a Venezia sia costretto all’esilio per emanciparsi, schiacciato da un mercato privato dai costi proibitivi.**Allo stesso modo, dobbiamo smascherare l’illusione dei grandi “studentati privati”: operazioni immobiliari spesso travestite da servizi universitari, ma nei fatti inaccessibili, pensate quasi esclusivamente per attrarre studenti stranieri ad alta capacità di spesa. Dobbiamo invece creare le condizioni affinché i giovani e gli studenti, da semplici city users di passaggio, diventino residenti stabili, trovando un ecosistema abitativo che permetta loro di restare e lavorare qui una volta laureati.
+
+Ma il diritto all’abitare non si esaurisce tra le mura domestiche. La nostra visione di “città a 15 minuti” non deve garantire solo la prossimità dei presidi socio-sanitari, ma l’accesso a una rete commerciale di base. Il carovita veneziano, drogato dall’economia turistica, impone prezzi inaccettabili per i beni di prima necessità, diventando un muro invisibile che respinge le famiglie. Per ricucire le fratture demografiche, istituiremo un  **Patto Intergenerazionale per l’Abitare**  che metta i giovani esplicitamente al centro: uniremo anziani che vivono in case troppo grandi con giovani veneziani, lavoratori e studenti in cerca di indipendenza. Non si tratta solo di assistere la terza età, ma di creare un welfare di prossimità in cui la solidarietà diventa lo strumento per l’emancipazione giovanile e la lotta allo spopolamento.
+
+Infine, rafforzeremo gli strumenti di welfare comunale e, in dialogo costante con il Sindacato Unione Inquilini, offriremo solide garanzie economiche ai proprietari che scelgono l’affitto a lungo termine in caso di morosità degli inquilini. Sosterremo i locatori in caso di morosità incolpevole temporanea e aiuteremo i residenti in momenti di fragilità, offrendo un’alternativa sicura e vantaggiosa per disinnescare la corsa all’affitto breve turistico senza per questo demonizzare quelle famiglie veneziane che svolgono attività di accoglienza in modo sostenibile e legale.
+
+**Locazioni turistiche: distinguere l'integrazione al reddito dalla grande speculazione**
+
+La residenzialità è un problema reale e l'eccesso di turistificazione è dannoso sia per chi vive che per chi investe. Tuttavia, per risolvere la crisi abitativa dobbiamo uscire dalla logica degli opposti estremismi e regolamentare le affittanze turistiche con intelligenza. È necessario operare una distinzione netta: da una parte c'è chi fa vera e propria impresa turistica o albergo diffuso, dall'altra ci sono le famiglie che utilizzano la locazione breve come sostegno vitale al proprio reddito. Se sei un cittadino veneziano e questo strumento ti serve per far fronte al carovita, sarai tutelato. Al contrario, la grande impresa speculativa sarà assoggettata al nostro **Fondo di Compensazione**: chi estrae valore da Venezia senza viverci dovrà restituirne una parte per finanziare la residenzialità.
+
+Tutto ciò accanto e simultaneamente nel dare servizi, lavoro e case ai residenti e ai nuovi veneziani per scelta (che sono i nuovi cittadini che hanno scelto Venezia grazie ad un lavoro ma che fatichiamo a trattenere).
+
+**L'artigianato di prossimità: il prerequisito tecnico dell'abitare**  La rigenerazione urbana fallisce se si limita a lucidare i muri espellendo chi li abita, ma dobbiamo avere il coraggio di affermare una verità strutturale che le precedenti amministrazioni hanno ignorato: la casa non è abitabile senza chi la manutiene. L'artigianato di servizio, composto da idraulici, edili, impiantisti ed elettricisti, non è un comparto accessorio, ma il prerequisito tecnico fondamentale della residenzialità.
+
+Oggi, la monocultura turistica e la spietata pressione immobiliare stanno espellendo progressivamente questi professionisti sia dagli spazi produttivi che da quelli residenziali. L'impatto di questa espulsione è devastante per i residenti: la riduzione dell'artigianato edile e manutentivo comporta un aumento insostenibile dei costi di intervento e compromette la funzionalità tecnica, la sicurezza e la conformità degli edifici.
+
+Nel nostro modello di città, le politiche abitative devono integrare esplicitamente la dimensione dell’artigianato. Non ci sarà rilancio della residenzialità se parallelamente non proteggiamo chi garantisce l'abitabilità degli immobili. Prevederemo sgravi fiscali e strumenti di tutela specifici per favorire la permanenza delle imprese artigiane di servizio, perché sostenere l’artigianato di prossimità significa, in termini di policy, sostenere la residenza stessa.
+
+**il "Campus del Vetro":** La carenza di manodopera specializzata sta uccidendo il nostro artigianato tanto quanto il caro bollette. Formare un maestro vetraio richiede dai 10 ai 12 anni di affiancamento, ma le nostre fornaci hanno personale prossimo alla pensione e faticano a trovare giovani. Questa crisi occupazionale è, alla radice, una crisi abitativa: il costo inaccessibile delle case allontana le nuove generazioni.  
+Attraverso il nostro strumento del Community Land Trust, applicheremo un piano di social housing dedicato a Murano. Invece di cedere i vuoti urbani e il passato industriale dell'isola alla speculazione alberghiera, recupereremo strutture come l'ex Ospizio di Briati per trasformarle in una foresteria e in residenze calmierate. Questa struttura ospiterà gli studenti dell'Istituto "Abate Zanetti" e i ricercatori di Ca' Foscari e IUAV, creando un vero "Campus del Vetro". Inoltre, recupereremo le ex fabbriche abbandonate per creare spazi di co-working dedicati a giovani artisti e designer. Infine, il Comune garantirà un regime di agevolazioni amministrative e fiscali (tramite il **Fondo di Compensazione**) per abbattere i costi a carico delle vetrerie che assumono e ospitano questi giovani apprendisti.
+
+#### Dobbiamo subito dare servizi che aiutino tutti a superare le difficoltà oggettive che il nostro territorio continua ad avere. Soprattutto per Venezia, dove il trasporto pubblico è una necessità irrinunciabile , si devono subito pensare a  **parcheggi alla portata di tutti**  tra P.le Roma e Tronchetto, **il diritto di poter vivere Venezia ma lavorare fuori dall’isola è primario se vogliamo ripopolare la città**. Al contempo la necessità di pensare al Ponte della libertà come una ZTL accessibile a chi vive, lavora, pernotta, parcheggia attraverso una prenotazione.
+
+#### **Come?**  
+**Ricompriamoci la città.**
+
+Il Comune deve smettere di essere uno spettatore passivo del proprio svuotamento per trasformarsi in un regolatore attivo del mercato, esattamente come hanno già fatto con successo città come Parigi, Barcellona e Amsterdam. Per realizzare questo obiettivo, attingendo anche alle risorse del Fondo di Compensazione, attiveremo uno strumento partecipativo aperto al mondo basato sul modello europeo del Community Land Trust. Attraverso questo strumento, l’amministrazione guiderà l’acquisizione strategica di immobili residenziali, palazzi e negozi storici sfitti, sottraendoli definitivamente alla speculazione immobiliare passiva.
+
+Questi spazi non verranno “statalizzati”, ma blindati e reimmessi immediatamente sul mercato tramite contratti pluriennali a canoni calmierati, vincolando rigorosamente le assegnazioni a criteri di sostenibilità economica e funzione urbana: botteghe di quartiere, artigianato locale, start-up e famiglie residenti. È un’azione di difesa dell’identità cittadina che trasforma la residenzialità e il commercio di prossimità in un’infrastruttura urbana intoccabile.
+
+**La peculiarità di questa operazione è la sua sostenibilità finanziaria, che non graverà di un solo centesimo sulle tasche dei veneziani.**  Trasformeremo Venezia nella prima città a “Co-proprietà Globale ma a Governance rigorosamente Locale”. Sfruttando le più moderne architetture finanziarie (come la tokenizzazione e gli smart contract), apriremo l’acquisizione di questi immobili al crowdfunding civico e, soprattutto, alle immense risorse dei fondi ESG (Environmental, Social, Governance) internazionali: Le grandi corporazioni della logistica, i giganti dell’industria e le catene alberghiere multinazionali, che oggi estraggono ricchezza dal nostro territorio, assieme a tutte le aziende che vogliono contribuire in modo concreto alla salvezza e sviluppo delle nostre città, saranno chiamate a investire i loro capitali etici in questo Fondo per bilanciare il loro impatto sociale. In questo modo, chiunque, dal turista in cerca di un turismo responsabile alla grande azienda multinazionale, potrà diventare un “custode azionista” di Venezia, generando un piccolo utile etico ed avendo benefici fiscali, ma lasciando il totale controllo decisionale e politico sulle assegnazioni nelle mani dell’amministrazione locale e dei cittadini.
+
+Ci ricompriamo la nostra città usando il valore del nostro “brand” e le leve del mercato globale per finanziare il nostro diritto di viverci.
+
+# Sicurezza e integrazione pragmatica
+
+##### Se riportiamo residenti, botteghe artigiane, lavoro pulito e servizi in tutti i quartieri, risolviamo alla radice le cause profonde del degrado, specialmente a Mestre. Ma la rigenerazione sociale richiede tempo, e noi non possiamo permetterci di attendere. La prevenzione deve essere inquadrata in una logica di tolleranza zero verso l’illegalità e affiancata da un  **rigoroso e costante presidio del territorio**.
+
+La sicurezza si costruisce ripopolando i quartieri di attività economiche, ma esige una Polizia Locale valorizzata, di prossimità e presente in modo capillare nelle strade e nei campielli, pronta a garantire tranquillità a chi vi abita e lavora. Il degrado non si risolve solo con le camionette dell’esercito, ma l’assenza di controllo non è tollerabile.
+
+**I numeri del fallimento e la Tolleranza Zero.**  
+Non possiamo curare un malato grave se sbagliamo la diagnosi. I dati ci dicono che la Provincia di Venezia è stabilmente nella “top 10” nazionale per indice di criminalità. Ma attenzione alla geografia del crimine: mentre Venezia insulare subisce prevalentemente reati predatori legati all’overtourism (furti, borseggi), è la Terraferma, e in particolare l’asse di Mestre e Marghera, a subire l’urto dei crimini di “allarme sociale”. Parliamo di impennate di rapine e spaccio a cielo aperto, concentrati in zone come il Quartiere Piave.
+
+Di fronte a questa emergenza, la rigenerazione sociale è l’obiettivo finale, ma il cittadino ha diritto alla sicurezza  _oggi_.
+
+Il degrado non si risolve appaltando il controllo del territorio a interventi temporanei e operazioni “Alto Impatto” o alle sole camionette dell’Esercito in stazione, che si limitano a spostare il problema di qualche isolato. La prevenzione deve essere inquadrata in una logica di  **tolleranza zero verso l’illegalità**: chi vive, lavora o è ospitato nella nostra città ha gli stessi diritti, ma è vincolato agli stessi identici doveri. Vogliamo una Polizia Locale valorizzata, di prossimità, che torni a camminare capillarmente nelle strade e nei campielli, se necessario che stazioni 24/7 nelle zone più a rischio, diventando un punto di riferimento visibile e costante per chi ci abita. Infatti la sicurezza non si ottiene solo con la sorveglianza, ma riportando la vita nelle strade. Per questo, trasformeremo i negozi sfitti nelle aree più critiche, da via Piave a Marghera, fino ai centri di quartiere, in  **Hub di Prossimità** che fungeranno da presidio costante e motore di servizi. Questi spazi saranno basi operative per la Polizia Locale, garantendo una presenza H24 e condizioni di lavoro dignitose, ma anche punti di accoglienza multifunzionali per i residenti: dalle dotazioni salvavita (DAE) alle informazioni di pubblica utilità e assistenza multilingue, per decongestionare il centro e servire il territorio. L’operazione si regge su un modello di sostenibilità pragmatico: il  **Fondo di Compensazione**  (alimentato dai flussi turistici) sarà integrato da un patto di vicinato con le attività locali. Un investimento che si ripaga da solo: ai commercianti non chiederemo una tassa, ma proporremo un’alleanza per abbattere radicalmente i costi di vigilanza privata e assicurativi, restituendo ai quartieri la loro naturale vitalità.
+
+**Rigenerare lo Spazio per Rigenerare la Sicurezza**  
+La vera sicurezza che diventa DNA della comunità, tuttavia, si costruisce ripopolando i quartieri. Non c’è telecamera che tenga quanto la vetrina illuminata di un artigiano o il plateatico di un commerciante. Come ci insegna la “teoria delle finestre rotte”, i vuoti urbani, le strade buie e le saracinesche abbassate sono il terreno di coltura ideale per lo spaccio e l’illegalità. I modelli europei dimostrano che la criminalità crolla dove torna la vita: guardiamo a El Raval a Barcellona o a King’s Cross a Londra, dove mix residenziale, apertura di nuovi varchi luminosi e poli culturali hanno sradicato intere piazze di spaccio.
+
+Per Mestre non proponiamo rattoppi, ma un  **Masterplan organico**. Questo significa mix funzionale: riportare uffici, laboratori per i giovani, co-housing e attività commerciali ai piani terra per generare un “controllo sociale naturale” continuo. E dove il degrado delle dipendenze è più acuto, applicheremo il pragmatismo nordeuropeo: serve coraggio politico per istituire spazi di ascolto, togliendo fisicamente il fenomeno dalle strade, riducendo i danni e restituendo dignità alle persone e sicurezza ai quartieri.
+
+#### Il Patto per l’Integrazione.
+
+Non possiamo parlare di sicurezza e rinascita senza affrontare l’elefante nella stanza: la demografia. Negli ultimi dieci anni, la popolazione straniera in Terraferma è aumentata del 30%. Oggi gli stranieri rappresentano circa un quinto dei residenti di alcune aree, con comunità, come quella bengalese, che costituiscono il vero motore fisico della nostra industria turistica, dei servizi e della cantieristica.
+
+Ignorare queste persone, o peggio, stiparle in quartieri dormitorio, significa alimentare una “zonizzazione” della marginalità che esploderà inevitabilmente in conflitto sociale.
+
+Affronteremo il nodo dell’integrazione stringendo un  **Patto per l’Integrazione**  con i nostri nuovi vicini. I termini sono chiari e non negoziabili: da parte dei nuovi arrivati ci aspettiamo il  **rispetto assoluto della legalità, della nostra cultura e delle nostre tradizioni**. In cambio, il Comune smetterà di girarsi dall’altra parte. Offriremo  **percorsi reali di integrazione**  attraverso sportelli civici per l’affitto calmierato, corsi di lingua e cittadinanza, e “Patti civici di quartiere” per la cura condivisa del verde e degli spazi comuni.
+
+La nostra visione di integrazione si fonda su un  **Patto per l'Integrazione**  chiaro e non negoziabile: chi sceglie di vivere e lavorare a Venezia, Mestre e Marghera deve sentirsi parte integrante del nostro tessuto sociale. Non chiediamo di rinnegare le proprie origini, ma pretendiamo la volontà di diventare cittadini attivi, rispettosi delle nostre leggi, della nostra cultura e delle tradizioni che rendono unica questa città.  
+Rifiutiamo fermamente la logica dei ghetti, siano essi denominati per nazionalità o origine, non vogliamo quartieri etnici, perché la separazione alimenta marginalità, degrado e conflitto sociale. Vogliamo una popolazione realmente plurale e integrata, dove le diverse attività e culture convivono nello stesso spazio residenziale ed economico. L’integrazione non è accoglienza passiva, ma un impegno reciproco: chi contribuisce alla ricchezza della nostra economia ha diritto a opportunità e dignità, ma ha il dovere di essere custode attivo della sicurezza e del decoro del quartiere che lo ospita.
+
+La sicurezza è il risultato finale per le nostre  **città vive**, plurali, dove  **chi contribuisce all’economia ha il diritto a un’abitazione dignitosa, ma ha anche il dovere di essere un custode rispettoso della comunità che lo accoglie.**
+
+
