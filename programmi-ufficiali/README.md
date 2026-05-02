@@ -29,3 +29,5 @@ Boldrin - consultabile sul sito ma non scaricabile come file
 
 # Nota metodologica
 I programmi non scaricabili come file sono stati generati con il 'riassunto lettura del browser' o generati da una skill del chatbot Claude di Anthropic
+
+Ho convertito quelli ufficiali in formato markdown per consentire al modello linguistico di effettuare ricerche più scansionabili.
