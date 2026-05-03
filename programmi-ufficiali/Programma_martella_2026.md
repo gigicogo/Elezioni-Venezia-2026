@@ -4,7 +4,6 @@
 
 
 _La_  **forza**
-
 _di_  **cambiare**
 
 **PROGRAMMA**  **2026–2031**
@@ -21,6 +20,7 @@ Venezia può diventare un modello anche dal punto di vista dell’evoluzione amm
 Uniti,  come  forze  civiche  e  politiche,  su  tale  obiettivo,  ci  appelliamo  alle  altre  forze  vive  del-la  città  e  a  tutte  le  persone  di  buona  volontà  per  elaborare  insieme  un  programma  di  piena rigenerazione  socioeconomica,  urbana  e  ambientale,  capace  di  ridare  prospettiva  vitale alla città,  di  rispondere  ai  nuovi  bisogni  sociali,  a  una  più  esigente  ed  estesa  idea  di  sanità  pubblica, a  un  nuovo  concetto  di  mobilità  e  fruizione  degli  spazi  urbani.  Una  rigenerazione,  dunque,  che investa più livelli e tenga conto dei profondi mutamenti economici e sociali in corso come dei cambiamenti climatici,  nei loro aspetti globali e in quelli locali,  a  Venezia,  per sua natura,  pro-fondamente  intrecciati.
 
 Il progetto, che è di radicale cambiamento delle politiche fin qui perseguite dall’amministrazio-ne uscente,  si riconosce nei  valori della Costituzione italiana (democrazia,  solidarietà,  antifasci-smo,  lavoro,  pace,  diritti individuali,  libertà di culto,  tutela delle minoranze,  libertà della cultura e della ricerca scientifica, tutela del patrimonio storico, equità generazionale e di genere, so-stenibilità  ambientale,  laicità)  e  dell’Unione  europea  (dignità  umana,  libertà,  uguaglianza  sociale, stato di diritto, parità di genere, inclusività per la comunità LGBT, diritti umani), con l’impegno a costruire relazioni nazionali e internazionali per consolidare tali valori e, al contempo, resti-tuendo  a  Venezia  il  rango  di  città  che,  per  la  sua  vicenda  millenaria  e  il  ruolo  che  ha  svolto  nella storia, si staglia come pochissime altre sulla scena globale.
+
 
 **VENEZIA**  **COSMOPOLITA**  **E**  **SOSTENIBILE: I**  **VALORI**
 
@@ -48,13 +48,10 @@ te  tecnologie  digitali  e  gratuite.  Altrettanto  le  deliberazioni  e  gli  
 
 Una  visione che inquadri strategie,  piani,  programmi e progetti,  con un chiaro senso di ciò che è  bene  per  la  comunità,  deve  avere  una  forte  regia  pubblica,  in  grado  di  governare  i  processi  di trasformazione  in  dialogo  positivo  con  i  diversi  portatori  di  legittimi  interessi  e  con  le  catego-rie  economiche  e  produttive.  In  questo  quadro  è  importante  arrivare  ad  un  Testo  Unico  o  Codi-ce  per  Venezia  e  l’ecosistema  lagunare  con  scopo  di  semplificazione  normativa  per  raggiungere più efficacemente questi obiettivi.
 
-  
-
-  
-
 In attesa del riconoscimento dell’autonomia fiscale e finanziaria da ottenersi con lo Statuto speciale e ribadendo la perentoria e non eludibile richiesta di adeguato rifinanziamento della legge  speciale  e  del  suo  aggiornamento  legislativo,  le  risorse  economiche  e  finanziarie,  fonda-mentali per realizzare il progetto, sono da intercettare senza aumentare la pressione fiscale e anzi diminuendola per i residenti, migliorando invece la capacità di attrarre fondi europei
 
 e investimenti pubblici per uno sviluppo robusto e diversificato con effetti redistributivi dei benefici  economici,  finanziari  e  sociali.  Questo  richiede  la  messa  in  campo  di  una  importante  at-tività progettuale capace di intercettare tali fondi e investimenti. In tal senso il funzionamento e l’organizzazione della macchina amministrativa diventa fondamentale, per migliorare sia la qualità delle risposte verso il cittadino che la qualità del lavoro dei dipendenti.
+
 
 **OBIETTIVI**  **E**  **TEMI**  **STRATEGICI**
 
@@ -73,15 +70,10 @@ Serve  oggi  più  che  mai  una  visione  che  includa  tutte  le  componenti  
 
 È necessario attuare tale visione attraverso strategie e processi di rigenerazione urbana, so-ciale  ed  economica,  in  modo  strutturale,  affinché  Venezia  possa  essere  attrattiva  per  le  perso-ne, le famiglie e le imprese.
 
-Le  città  sono  il  motore  dello  sviluppo,  senza  il  quale  non  c’è  evoluzione  della  comunità,  che  deve guardare avanti verso il futuro. Il nostro compito è mettere al centro la comunità, il suo be-nessere  e  il  suo  futuro.  Per  fare  questo  dobbiamo  rilanciare  l’economia  locale  legando  sviluppo economico e coesione sociale. Questo richiede di mettere mano alla struttura fisica della città e  alla  sua  funzionalità  in  termini  di  accessibilità  e  fruibilità,  di  disegno  dello  spazio  pubblico  an-che  rivedendo  i  piani  urbanistici  approvati  o  in  via  di  approvazione  in  aree  sensibili  della  Laguna e dell’entroterra quali,  tra gli altri, l’ex Umberto I – per il quale va considerata la possibilità di assicurare al patrimonio pubblico i terreni acquisiti dai privati, puntando a ridimensionare le volumetrie del piano, a mantenere e riusare i padiglioni storici e a indire un concorso interna-zionale di idee per la valorizzazione culturale e paesaggistica del complesso – Punta San Giu-liano,  Darsena  di  Campalto,  ex  cantieri  ACTV  a  Sant’Elena,  nuovo  villaggio  di  Ca’  Roman,  nuovo supermercato di Ca’ Bianca, il cosiddetto Parco del Marzenego e il cosiddetto Bosco dello  sport (compreso il sistema di convenzioni per garantire maggiori equilibrio per la parte pub-
+Le  città  sono  il  motore  dello  sviluppo,  senza  il  quale  non  c’è  evoluzione  della  comunità,  che  deve guardare avanti verso il futuro. Il nostro compito è mettere al centro la comunità, il suo be-nessere  e  il  suo  futuro.  Per  fare  questo  dobbiamo  rilanciare  l’economia  locale  legando  sviluppo economico e coesione sociale. Questo richiede di mettere mano alla struttura fisica della città e  alla  sua  funzionalità  in  termini  di  accessibilità  e  fruibilità,  di  disegno  dello  spazio  pubblico  an-che  rivedendo  i  piani  urbanistici  approvati  o  in  via  di  approvazione  in  aree  sensibili  della  Laguna e dell’entroterra quali,  tra gli altri, l’ex Umberto I – per il quale va considerata la possibilità di assicurare al patrimonio pubblico i terreni acquisiti dai privati, puntando a ridimensionare le volumetrie del piano, a mantenere e riusare i padiglioni storici e a indire un concorso interna-zionale di idee per la valorizzazione culturale e paesaggistica del complesso – Punta San Giu-liano,  Darsena  di  Campalto,  ex  cantieri  ACTV  a  Sant’Elena,  nuovo  villaggio  di  Ca’  Roman,  nuovo supermercato di Ca’ Bianca, il cosiddetto Parco del Marzenego e il cosiddetto Bosco dello  sport (compreso il sistema di convenzioni per garantire maggiori equilibrio per la parte pubblica). Tutto  questo va fatto  in  modo  sostenibile  dal  punto  di vista  ambientale, pensando  alle attività  di  prossimità  come  alle  grandi  aree  di  riconversione  industriale  come  Porto  Marghera  e al  sistema  della  mobilità  come  al  sistema  dei  parchi  e  delle  connessioni  verdi.
 
-  
+Per  costruire  un  futuro  migliore  e  valorizzare  un  territorio  complesso  come  il  nostro,  a  van-taggio  di  chi  ci  vive,  è  fondamentale  identificare  alcuni  temi  chiave.  Guidati  dai  valori  di  fondo che  abbiamo  indicato,  costituzionali  ed  europei,  dobbiamo  rilanciare  la  vocazione  della  città come  luogo  sicuro  e  aperto,  solidale,  cosmopolita.  È  necessario  quindi  individuare  alcune  parole chiave  attorno  alle  quali  produrre  una  visione  complessiva  e  coerente  dello  sviluppo  economi-co,  urbano  e  sociale,  assumendo  l’orizzonte  e  la  prospettiva,  già  in  atto,  della  trasformazione ecologica  e  digitale  e  della  transizione  energetica.  Accanto  ad  una  efficace  azione  di  governo e alla gestione sostenibile del fenomeno del turismo e in generale delle attività economiche e produttive, va riaffermato, in un nuovo equilibrio con l’ambiente, il ruolo di luogo privilegiato  per  innovativi  insediamenti  industriali,  produttivi  e  di  servizi.
 
-blica). Tutto  questo va fatto  in  modo  sostenibile  dal  punto  di vista  ambientale, pensando  alle attività  di  prossimità  come  alle  grandi  aree  di  riconversione  industriale  come  Porto  Marghera  e al  sistema  della  mobilità  come  al  sistema  dei  parchi  e  delle  connessioni  verdi.
-
-Per  costruire  un  futuro  migliore  e  valorizzare  un  territorio  complesso  come  il  nostro,  a  van-taggio  di  chi  ci  vive,  è  fondamentale  identificare  alcuni  temi  chiave.  Guidati  dai  valori  di  fondo che  abbiamo  indicato,  costituzionali  ed  europei,  dobbiamo  rilanciare  la  vocazione  della  città come  luogo  sicuro  e  aperto,  solidale,  cosmopolita.  È  necessario  quindi  individuare  alcune  parole chiave  attorno  alle  quali  produrre  una  visione  complessiva  e  coerente  dello  sviluppo  economi-co,  urbano  e  sociale,  assumendo  l’orizzonte  e  la  prospettiva,  già  in  atto,  della  trasformazione ecologica  e  digitale  e  della  transizione  energetica.  Accanto  ad  una  efficace  azione  di  governo
-
-e alla gestione sostenibile del fenomeno del turismo e in generale delle attività economiche e produttive, va riaffermato, in un nuovo equilibrio con l’ambiente, il ruolo di luogo privilegiato  per  innovativi  insediamenti  industriali,  produttivi  e  di  servizi.
 
 **LAVORO,**  **ECONOMIA**  **E**  **SVILUPPO**
 
@@ -96,11 +88,6 @@ Va  avviata  la  realizzazione  del  porto  off-shore  secondo  il  DL  n.45/202
 Nella fase di transizione vanno utilizzati come approdi le banchine esistenti, con eventuali in-terventi  di  minima  utili  alla  transizione  che  non  prefigurino  soluzioni  definitive.
 
 La  rigenerazione  dell’area  industriale  di  Marghera  va  orientata  nel  senso  della  bonifica  ambien-tale  e  della  rivitalizzazione  e  innovazione  produttiva,  con  un  nuovo  protagonismo  dell’ammi-nistrazione  e  della  città  nel  confronto  e  in  dialogo  con  le  aziende  e  le  organizzazioni  sindacali, individuando i seguenti obiettivi:
-
-  
-
-  
-
 -   Impegno  alla  bonifica  dell’area  SIN  di  Porto  Marghera,  con  costituzione  di  una  commissione dedicata alla riqualificazione del water-front per uso collettivo pubblico,
 -   insediamento  nell’area  di  Porto  Marghera  di  un  polo  tecnologico  e  di  ricerca d’avanguardia,
 -   installazione di un parco agrovoltaico,  con costituzione di una CER specifica per la città storica di Venezia,
@@ -111,7 +98,6 @@ In  tale  contesto  anche  le  infrastrutture  ferroviarie  e  stradali  necessa
 Vanno  salvaguardati  i  livelli  occupazionali  anche  sviluppando  ulteriori  opportunità  in  partico-lar modo per quanto concerne la cantieristica dedicata alla nautica da diporto e favorendo lo sviluppo  di  attività  di  manutenzione,  con  ricadute  occupazionali  importanti.
 
 Per fare tutto questo è necessario un nuovo e più forte ruolo del governo pubblico, di promo-zione e indirizzo nei processi di trasformazione e riqualificazione del tessuto economico, urba-no – a partire dall’area di Santa Marta e San Basilio – e sociale,  a partire dalla difesa e  valoriz-zazione dei beni comuni.  Riassumendo,  per ridare a Porto Marghera quel ruolo cruciale che ha avuto  a  lungo  e  che  da  troppi  anni  è  stato  reso  più  difficile  e  più  debole  occorre  saper  collocare e armonizzare diverse funzioni:
-
 -   industriale,
 -   portuale,
 -   l’evoluzione  del  terziario  legato  alla  logistica  e  alle  produzioni  tecnologiche  materiali  e  im-materiali, innovative e di carattere ambientale, assieme anche a servizi collettivi,
@@ -125,11 +111,8 @@ La  nuova  amministrazione  aprirà  un  rinnovato  confronto  sul  Master  Plan
 
 Confermiamo  inoltre  la  contrarietà,  più  volte  ribadita,  alla  soluzione  “a  cappio”,  già  in  fase  di realizzazione,  del  tracciato  ferroviario,  e  l’opzione  per  la  stazione  interrata  di  testa.  Vanno  uti-lizzate  tutte  le  misure  compensative  del  Masterplan  2021  non  ancora  impiegate.
 
-Va  attuato  il  protocollo  d’intesa  del  21  maggio  2015  ratificato  con  delibera  del  consiglio  comu-
+Va  attuato  il  protocollo  d’intesa  del  21  maggio  2015  ratificato  con  delibera  del  consiglio  comunale n.8 del 2017 sull’utilizzo pubblico del terminal acqueo dell’aeroporto e la strutturazione di  una  linea  di  collegamento  pubblico  stabile  ACTV  da  Tessera  a  Venezia,  ed  alle  principali  isole abitate  (ad  esempio  Murano  e  Burano).  In  questa  nuova  visione,  si  realizzerà  un  sistema  di  bi-glietteria unico tra Comune e Città metropolitana all’interno della stazione aeroportuale.
 
-  
-
-nale n.8 del 2017 sull’utilizzo pubblico del terminal acqueo dell’aeroporto e la strutturazione di  una  linea  di  collegamento  pubblico  stabile  ACTV  da  Tessera  a  Venezia,  ed  alle  principali  isole abitate  (ad  esempio  Murano  e  Burano).  In  questa  nuova  visione,  si  realizzerà  un  sistema  di  bi-glietteria unico tra Comune e Città metropolitana all’interno della stazione aeroportuale.
 
 **AMBIENTE**
 
@@ -142,14 +125,9 @@ A  questo  scopo,  una  tutela  diffusa  richiede  anche  politiche  di  consumo
 Renderemo la città capitale della transizione ecologica con progetti specifici, ad esempio, sul vetro (eliminando le microplastiche e rilanciando l’identità muranese come risposta etica e politica alla crisi ambientale globale); realizzando un piano generale per una rete fognaria se-parata  di  acque  bianche  (piovane)  e  acque  nere  nella  terraferma  e  una  rete  fognaria  per  acque nere a Venezia; valorizzando la risorsa acqua attraverso un progetto di gestione, consumo e riuso rivolto al risparmio idrico; riattivando i piani previsti dalla normativa per contrastare i cambiamenti  climatici  come  il  PAESC  e  un  piano  verde  del  Comune  di  Venezia  con  la  molteplice funzione di espansione delle aree verdi pubbliche (es. il bosco di Mestre), e di ricucitura delle diverse  parti  della  città;  completando  il  Parco  di  San  Giuliano  in  coerenza  con  il  Piano  Guida  del 1995  dell’arch.  Antonio  Di  Mambro,  dai  Pili  a  Passo  Campalto,  e  con  la  riqualificazione,  attraver-so  una  nuova  progettazione,  dell’intero  water-front,  da  Tessera  fino  a  Porto  Marghera  e  Fusina; mitigando gli impatti dei cambiamenti climatici, riducendo l’inquinamento dell’aria, dell’acqua, del suolo e ricucendo le diverse parti della città.
 
   
-
 **CASA**
 
 Garantire  il  diritto  alla  casa  è  una  priorità.  È  necessario  garantire  la  permanenza  dei  residenti e  generare  nuova  cittadinanza. Economia  e  lavoro  necessitano  di  una  nuova  e  rinnovata  politica della  casa,  assieme  ad  un  efficiente  sistema  di  trasporto  pubblico  e  l’offerta  di  servizi  adeguati. Se  si  vogliono  attrarre  lavoratori  bisogna  che  la  città  sia  in  grado  di  offrire  abitazioni,  soprat-tutto  a  quella  classe  media  che  proprio  per  esigenze  lavorative  si  sposta  sul  territorio  naziona-le.  Per  invertire  il  declino  demografico  e  contrastare  il  degrado  sociale  è  necessario  che  le  città di  terra  e  di  acqua  siano  accoglienti  e  capaci  di  offrire  residenza  stabile  agli  studenti,  ai  docen-ti,  ai  medici  e  agli  operatori  sanitari,  agli  artigiani,  ai  professionisti,  agli  operatori  della  giustizia e della sicurezza.
-
-  
-
-  
 
 È  ora  di  attivare  un  vero  Piano  Casa  articolato  tra  rilancio  delle  politiche  sull’edilizia  pubblica, creazione  dei  laboratori  di  nuove  forme  di  abitazione  collaborativa  e  incentivi  perché  il  mer-cato  privato  non  sia  schiacciato  da  fenomeni  speculativi  che  minano  la  possibilità  di  un’offerta adeguata  dedicata  alla  residenza  di  lunga  durata.
 
@@ -157,7 +135,6 @@ Garantire  il  diritto  alla  casa  è  una  priorità.  È  necessario  garanti
 
 Ed è altresì necessario garantire agli studenti fuori sede, che sono tutti potenziali futuri citta-dini,  il  diritto  a  vivere  in  abitazioni  dignitose  e  adeguate  alle  loro  esigenze,  e  di  poter  godere  dei servizi di base,  ad esempio la possibilità di usufruire di un medico di medicina generale al pari dei residenti o utilizzare il trasporto pubblico a prezzi calmierati. L’obiettivo è contrastare lo spopolamento di Venezia incentivando il ripopolamento, finanziando il restauro del patrimonio pubblico e regolamentando le locazioni turistiche.
 
-  
 
 **WELFARE**
 
@@ -167,17 +144,17 @@ Si  deve  potenziare  l’assistenza  agli  anziani  e  alle  persone  con  disa
 
 Occorre  dedicare,  inoltre,  particolare  attenzione  alle  nuove  generazioni  e  promuovere  progetti  di  “scuola  aperta” con  scuola,  famiglia  e  associazioni  per  la  fascia  dei  preadolescenti  e  a  garan-tire  la  partecipazione  alla  pratica  sportiva  fin  dalle  età  primarie  ma  promuovendola  per  ogni età  della  vita,  riconoscendo  allo  sport  un  valore  educativo  e  di  promozione  del  benessere  che va  tutelato  come  un  diritto  fondamentale.
 
+
 **SICUREZZA**  **E**  **QUALITÀ**  **URBANA**  **E**  **SOCIALE**
 
 Per contrastare il degrado urbano è necessario intervenire con una manutenzione costante degli  spazi  pubblici,  integrando  l’azione  delle  forze  dell’ordine  con  servizi  sociali  e  altri  interven-ti di supporto.
-
-  
 
 È  essenziale  una  maggiore  collaborazione  con  le  comunità  locali  per  prevenire  i  fenomeni  di  mi-crocriminalità e per promuovere un ambiente sicuro e vivibile anche nei diversi quartieri. Pro-getti di riqualificazione devono puntare al recupero di edifici abbandonati, a partire dalle aree di proprietà pubblica attraverso un Piano strategico di valorizzazione delle aree pubbliche, alla cura  e  valorizzazione  degli  spazi  verdi,  ad  un  uso  più  equilibrato  e  razionale  delle  aree  pubbliche che vengono date in concessione.
 
 Una città curata nei suoi aspetti in collaborazione con la comunità di riferimento contribuisce  a migliorare la qualità della vita dei residenti. Per affrontare con serietà il problema della sicu-rezza, è necessario quindi un lavoro continuativo di confronto con le forze sociali, le categorie e i cittadini associati, per individuare percorsi che producono effetti positivi sul fenomeno, che ora è sfuggito completamente da qualsiasi forma di controllo.
 
 Su  questo  argomento  la  fase  di  ascolto  e  poi  di  cucitura  delle  varie  proposte  di  intervento  è  la prima priorità. La sicurezza deve essere rilanciata attraverso piani di reinserimento sociale e lavorativo, insieme all’accoglienza diffusa e di responsabilizzazione delle persone con fragilità che vivono in situazioni di marginalità.
+
 
 **CULTURA**  **E**  **FORMAZIONE**
 
@@ -187,35 +164,30 @@ Si deve incentivare la collaborazione tra atenei, imprese e istituzioni locali p
 
 Opportunità  che  richiedono  una  predisposizione  della  città  ad  attrarre  lavoratori,  attraverso ottime  connessioni  di  trasporto,  disponibilità  di  alloggi,  importante  offerta  culturale,  buona qualità  della  vita  e  disponibilità  finanziarie.  Infine  “l’industria  del  divertimento”  va  interpretata come  occasione  per  generare  economie  e  posti  di  lavoro  e  strumento  per  la  gestione  dei  feno-meni  dei  disturbi  al  vicinato  in  alcune  aree  della  città  anche  per  creare  un  ambiente  urbano  a misura  di  giovani  con  spazi  e  offerte  sociali  e  culturali  loro  dedicati  e  politiche  di  attivazione  del protagonismo  giovanile.
 
+
 **TURISMO**
 
 Il turismo è una risorsa fondamentale per Venezia, ma deve essere gestito in modo sostenibile.  Serve  un  piano  strategico  di  livello  metropolitano,  da  costruire  assieme  ad  operatori  econo-mici  in  modo  partecipato,  dotato  di  indicatori  in  grado  di  monitorare  i  risultati  delle  strategie messe  in  campo,  che  abbia  come  obiettivo,  regolare  i  flussi  e  ridurre  la  pressione  ora  tutta concentrata  su Venezia, aumentare  la  qualità  dell’offerta, aumentare  la  qualità  del  lavoro  degli addetti,  favorire  le  ricadute  economiche  sul  territorio,  proteggere  il  patrimonio  culturale  e ambientale  e  la vita  quotidiana  dei  residenti. Venezia  non  può  diventare  la  prima  città  al  mondo con  un  biglietto  d’ingresso  per  il  solo  accesso,  sganciato  da  qualsiasi  tipo  di  servizio  che  cerchi di  migliorare  l’esperienza  turistica:  gabelle  medievali  non  possono  risolvere  una  questione  che richiede  una  serie  articolata  di  azioni  rivolte  alla  sostenibilità  del  turismo  e  alla  ricostruzione di  condizioni  di  vivibilità  per  i  residenti.  Particolare  cura  va  posta  nel  rifondare  il  sistema  dei trasporti  oggi  penalizzanti  sia  per  i  residenti  sia  per  i  visitatori  della  città.
 
+
 **MOBILITÀ**  **E**  **TRASPORTI**
 
-Realizzare  un  sistema  di  trasporti  integrato  e  ben  ramificato  nell’area  metropolitana,  che  ridu-ca  i  tempi  di  percorrenza  tra  terraferma,  città  antica  e  isole  è  prioritario  per  la  vivibilità  della città  e  la  sua  attrattività.  La  mobilità  urbana  a  Venezia  e  Mestre  richiede  soluzioni  innovative per  conciliare  la  sostenibilità  ambientale,  la  vivibilità  dei  residenti  e  le  esigenze  dei  visitato-
-
-ri  dopo  dieci  anni  di  puro  immobilismo.  Bisogna  implementare  un  nuovo  concetto  di  mobilità basato  sui  nodi  intermodali  che  devono  essere  attrezzati  e  potenziati  per  l’interscambio  con altri  mezzi,  oltre  che  connessi  a  reti  di  mobilità  dolci.  Per  liberare  dal  traffico  automobilistico le  direttrici  che  da  Mestre  vanno  verso  l’area  metropolitana  occorre  riprendere  ed  integrare  il Sistema  Ferroviario  Metropolitano  Regionale  (che  va  completato  con  la  massima  celerità)  con una  bigliettazione  unica  tra  i  diversi  operatori  e  anche  con  nuove  linee  tramviarie.  A  Venezia occorre  diversificare  le  porte  di  accesso  principali  specializzando  Piazzale  Roma  per  i  flussi urbani di residenti, lavoratori.
+Realizzare  un  sistema  di  trasporti  integrato  e  ben  ramificato  nell’area  metropolitana,  che  ridu-ca  i  tempi  di  percorrenza  tra  terraferma,  città  antica  e  isole  è  prioritario  per  la  vivibilità  della città  e  la  sua  attrattività.  La  mobilità  urbana  a  Venezia  e  Mestre  richiede  soluzioni  innovative per  conciliare  la  sostenibilità  ambientale,  la  vivibilità  dei  residenti  e  le  esigenze  dei  visitatori  dopo  dieci  anni  di  puro  immobilismo.  Bisogna  implementare  un  nuovo  concetto  di  mobilità basato  sui  nodi  intermodali  che  devono  essere  attrezzati  e  potenziati  per  l’interscambio  con altri  mezzi,  oltre  che  connessi  a  reti  di  mobilità  dolci.  Per  liberare  dal  traffico  automobilistico le  direttrici  che  da  Mestre  vanno  verso  l’area  metropolitana  occorre  riprendere  ed  integrare  il Sistema  Ferroviario  Metropolitano  Regionale  (che  va  completato  con  la  massima  celerità)  con una  bigliettazione  unica  tra  i  diversi  operatori  e  anche  con  nuove  linee  tramviarie.  A  Venezia occorre  diversificare  le  porte  di  accesso  principali  specializzando  Piazzale  Roma  per  i  flussi urbani di residenti, lavoratori.
 
 Il  moto  ondoso  rappresenta  una  delle  principali  sfide  ambientale  e  infrastrutturale  per  Venezia, con impatti significativi sulla conservazione del patrimonio storico e sulla qualità della vita dei residenti. È  necessario  in  primis far  rispettare  le  regole  già  oggi vigenti  e  adottare  politiche per la diffusione di natanti a basso impatto ambientale e a bassa produzione di onde.  L’intero sistema deve essere progettato per garantire una mobilità efficiente, inclusiva e sostenibi-
 
 le,  capace  di  rispondere  alle  esigenze  della  città  e  dei  suoi  abitanti,  preservando  al  contempo l’unicità  e  la  fragilità  del  territorio  lagunare,  eliminando  gli  impattanti  hub  turistici  previsti  dal Pums  in  gronda  lagunare,  in  primis  al  Montiron  e  a  San  Giuliano  e  Pili,  realizzando  il  nuovo  colle-gamento  tra  Burano  e  Tessera  in  forme  alternative  a  quelle  previste  dal  Pums.
 
+
 **RUOLO**  **METROPOLITANO**
 
-Venezia  deve  rafforzare  il  proprio  ruolo  di  capofila  nella  Città  Metropolitana,  coordinando  lo sviluppo  delle  aree  limitrofe  per  garantire  servizi  integrati  e  una  crescita  equilibrata.  È  impor-tante  promuovere  progetti  comuni  che  riguardino  infrastrutture,  mobilità  e  ambiente,  favo-rendo  la  cooperazione  tra  i  44  comuni  a  partire  dall’elemento  unificante  del  nostro  territorio che  sono  le  acque  e  la  laguna.  Una  governance  metropolitana  forte  garantisce  maggiore  effi-cienza  e  competitività  per  tutto  il  territorio.  La  Città  Metropolitana  di  Venezia  è  stata  colpe-volmente  abbandonata,  impedendole  di  diventare  l’elemento  istituzionale  di  coordinamento  e crescita  dell’intero  sistema  urbano.  Essa  è  stata  relegata  ad  una  funzione  meramente  ammini-strativa,  peraltro  di  scarsissimo  impatto  nel  territorio.  Nel  frattempo,  le  aree  urbane  di  altre città  venete  come  Padova  e Verona  e  l’area  metropolitana  di  Bologna  e  Milano  sono  cresciute  in modo  significativo,  anche  perché  guidate  da  istituzioni  pubbliche  capaci  di  attivare  delle  politi-che  generativa  di  sviluppo,  sociale,  culturale.
+Venezia  deve  rafforzare  il  proprio  ruolo  di  capofila  nella  Città  Metropolitana,  coordinando  lo sviluppo  delle  aree  limitrofe  per  garantire  servizi  integrati  e  una  crescita  equilibrata.  È  impor-tante  promuovere  progetti  comuni  che  riguardino  infrastrutture,  mobilità  e  ambiente,  favo-rendo  la  cooperazione  tra  i  44  comuni  a  partire  dall’elemento  unificante  del  nostro  territorio che  sono  le  acque  e  la  laguna.  Una  governance  metropolitana  forte  garantisce  maggiore  effi-cienza  e  competitività  per  tutto  il  territorio.  La  Città  Metropolitana  di  Venezia  è  stata  colpe-volmente  abbandonata,  impedendole  di  diventare  l’elemento  istituzionale  di  coordinamento  e crescita  dell’intero  sistema  urbano. Essa  è  stata  relegata  ad  una  funzione  meramente  ammini-strativa,  peraltro  di  scarsissimo  impatto  nel  territorio.  Nel  frattempo,  le  aree  urbane  di  altre città  venete  come  Padova  e Verona  e  l’area  metropolitana  di  Bologna  e  Milano  sono  cresciute  in modo  significativo,  anche  perché  guidate  da  istituzioni  pubbliche  capaci  di  attivare  delle  politi-che  generativa  di  sviluppo,  sociale,  culturale.
+
 
 **RUOLO**  **NAZIONALE**  **E**  **INTERNAZIONALE**
 
 Venezia,  con  il  suo  patrimonio  unico,  deve  rivendicare  un  ruolo  di  primo  piano  sia  a  livello  na-zionale che internazionale, favorendo una cultura e politiche di cooperazione e di pace (ripri-stinando il Centro Pace, che nella sua pluridecennale attività aveva conquistato prestigio e ruolo su scala nazionale ed internazionale e che l’amministrazione Brugnaro ha ignobilmente soppresso).  È cruciale partecipare attivamente a reti globali e sviluppare collaborazioni con istituzioni culturali, economiche e scientifiche di tutto il mondo. Sul piano nazionale, Venezia deve  essere  un  modello  di  innovazione  nelle  politiche  ambientali,  urbane  e  culturali,  portando  la sua  esperienza  su  scala  globale.  Solo  con  un’alta  progettualità  Venezia  potrà  rivendicare  anche il rifinanziamento della Legge Speciale e intercettare altri finanziamenti europei puntando al riconoscimento di una innovativa legislazione e regolamentazione specifica.
 
-_La_  **forza**
-
-_di_  **cambiare**
-
-**PROGRAMMA**  **2026–2031**
-
-  
 
 **_Una città che si prende_** **_cura_**  **_dei_**  **_suoi_**  **_cittadini_** **_Casa_**
 
@@ -226,7 +198,6 @@ _di_  **cambiare**
 **_Politiche_**  **_educative_**  **_e_**  **_università_**
 
   
-
 **_Una_**  **_città_**  **_che_**  **_innova_** **_e_**  **_guarda_**  **_al_**  **_futuro_** **_Ambiente_**
 
 **_Economia Lavoro_**
@@ -238,6 +209,7 @@ _di_  **cambiare**
 **_Una città che si prende_** **_cura_**  **_dei_**  **_suoi_**  **_cittadini_**
 
 —  **_Casa_**
+
 
 1.  **Piano casa**  **pubblico,**  **sociale**  **e collaborativo**
 
@@ -259,9 +231,11 @@ Per trattenere e riportare in città gli under 35 servono contributi all’affit
 
 Per  raccogliere  e  condividere  analisi  e  valutazioni  sulla  domanda  di  casa  e  sulle  possibili azioni  d’intervento  a  partire  dalle  linee  di  indirizzo  del  Piano  casa  pubblico,  sociale  e  collabo-rativo.
 
+
 1.  **Assessorato**  **alla**  **casa**  **(o**  **all’abitare)**
 
 La  città  ha  bisogno  di  una  regia  sulla  casa  e  sul  sistema  dell’abitare  capace  di  rispondere  ai bisogni adottando un approccio sistemico per rispondere non solo in termini di politiche abitative ma bensì di politiche urbane per la città.
+
 
 —  **_Carovita_**
 
@@ -637,25 +611,7 @@ Il  controllo  del  territorio  esige  di  sperimentare modelli nuovi di presidi
 
 La prevenzione è composta da un insieme di politiche, urbane e sociali, gestibili immediata-mente dal Comune, perché la cura del luogo, la sua  continua  praticabilità  da  parte  dei  cittadi-ni, costituisce una delle leve più importanti di intervento. Per fare questo è necessario un in-vestimento sul decoro urbano dei luoghi, con un piano straordinario per la pubblica illuminazione, il recupero e il riuso degli spazi e degli edifici abbandonati attraverso un Piano strategico di valorizzazione delle aree pubbliche.
 
-Accanto  agli  interventi  strutturali,  va  costru-ita  insieme  con  le  realtà  associative  presenti
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-nei territori, come nel caso di via Piave, una strategia di presidio culturale, con la costante organizzazione  di  eventi  nei  luoghi  più  sensibili. Inoltre, va riorganizzata la rete dei servizi di intervento sociale a bassa e bassissima soglia per intercettare il disagio prima che diventi emergenza.
+Accanto  agli  interventi  strutturali,  va  costru-ita  insieme  con  le  realtà  associative  presenti nei territori, come nel caso di via Piave, una strategia di presidio culturale, con la costante organizzazione  di  eventi  nei  luoghi  più  sensibili. Inoltre, va riorganizzata la rete dei servizi di intervento sociale a bassa e bassissima soglia per intercettare il disagio prima che diventi emergenza.
 
 Non  dobbiamo  inoltre  abbassare  la  guardia  nei confronti  dei  fenomeni  di  criminalità  organizza-ta,  che  caratterizzano  le  grandi  realtà  urbane, e  si  adattano  di  continuo  al  mercato,  tentando di  saldarsi  con  la  rete  della  piccola  criminalità; nei loro confronti serve agire pesantemente sul  piano  della  repressione,  con  la  costante  azione da parte delle  forze dell’ordine e il coordina-mento operativo costante delle diverse realtà coinvolte.
 
