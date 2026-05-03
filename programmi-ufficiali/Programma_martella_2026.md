@@ -28,8 +28,6 @@ Sulla  base  di  questi  valori  generali,  ci  impegniamo  su  alcuni  punti  c
 
 territoriale,  cioè,  coeso,  sano,  vivibile,  efficientemente connesso e integrato in un’area metro-politana  e  in  una  regione  attrattiva  per  imprese,  famiglie  e  persone,  capace  di  generare  nuova cittadinanza,  invertendo  il  declino  demografico  e  sociale.  La  Laguna  di  Venezia  è  un  ecosistema unico e la sua tutela deve orientare l’insieme delle politiche del territorio.
 
-  
-
 Ogni  azione  deve  perseguire  l’obiettivo  della  minima  o  nulla  ricaduta  ambientale.  Per  ogni  mi-sura  assunta,  a  mitigazione  si  devono  applicare  i  principi  del  ripristino  dei  valori  naturali  come recentemente disciplinato dall’UE.
 
 Puntiamo al rafforzamento dell’economia locale esistente e sulla promozione di nuove attività, soprattutto quelle legate alla conoscenza e alla ricerca tecno-scientifica, che compensino e bilancino l’economia attuale che più impatta sul territorio, quella turistica. Una nuova econo-mia  può  svilupparsi  nella  misura  in  cui  la  città  –  e  dunque  il  suo  governo  –  riesce  a  offrire  buona qualità urbana, servizi adeguati e affidabili, mobilità efficiente, residenzialità all’altezza della domanda (esistente e nuova), offerta culturale stimolante.
