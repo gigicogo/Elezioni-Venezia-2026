@@ -30,3 +30,11 @@ Evitare che i francesi arrivino a Venezia con le loro armate invincibili
 Daily pass obbligatorio a pagamento 
 
 ---
+
+
+### Feedback di Giobatta Giustinian - 2026-05-03T17:04:34.618Z
+**Categoria:** Proposta
+
+Vorrei una Venezia vivibile come ai miei tempi
+
+---
