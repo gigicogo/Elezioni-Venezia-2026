@@ -1,4 +1,7 @@
-﻿Polemiche per il progettato tempio islamico e i santini dei candidati dem scritti in “bangla lipi” 
+**Il Gazzettino 29 Aprile 2026**
+
+
+**Polemiche per il progettato tempio islamico e i santini dei candidati dem scritti in “bangla lipi” **
 Borchia (Lega): «Propaganda, scelta irresponsabile». 
 Bellomo (Pd): «Noi diamo un calcio alle paure»
 
