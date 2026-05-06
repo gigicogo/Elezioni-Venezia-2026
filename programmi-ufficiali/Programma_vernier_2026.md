@@ -1,9 +1,7 @@
-﻿
-**
+
 
 # Una visione sistemica per la nostra comunità
 
-**
 
 Per salvare e rilanciare la(e) nostra(e) città, non possiamo più procedere per compartimenti stagni. Le sfide della nostra comunità sono anelli di un’unica catena. Il nostro programma si fonda su una logica conseguenziale: dall’ecosistema della nostra comunità alla creazione di nuove risorse, dall’uso di tecnologie sovrane per  **gestire i flussi**  fino al recupero della casa, per arrivare, infine, alla vera sicurezza sociale.
 
