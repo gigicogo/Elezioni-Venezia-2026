@@ -38,3 +38,11 @@ Daily pass obbligatorio a pagamento
 Vorrei una Venezia vivibile come ai miei tempi
 
 ---
+
+
+### Feedback di Lello - 2026-05-27T13:43:19.591Z
+**Categoria:** Proposta
+
+Sommergere parte della città per creare una palestra permanente di vita subacquea 
+
+---
