@@ -5,7 +5,7 @@ Questo repository raccoglie documenti, programmi elettorali e analisi relativi a
 ## Struttura
 Gli elementi di base sono frutto di una Deep Research effettuata con i principali chatbot utilizzando un prompt basico descritto nel README.md presente nella cartella dedicata.
 
-Sono stati inseriti poi i programmi ufficiali, laddove presenti.
+Sono stati inseriti poi i programmi ufficiali, laddove presenti, alcuni dei quali ottimizzati per un Mini-RAG.
 
 Ulteriori contenuti sono stati ricavati attraverso il caricamento di comunicati stampa e articoli di giornale, sia locali che nazionali.
-In particolare, gli articoli dei giornali, convertiti in markdown, sono relativi solo all'ultimo mese di campagna elettorale
+In particolare, gli articoli dei giornali, convertiti in markdown da una skill di Claude, sono relativi solo all'ultimo mese di campagna elettorale.
