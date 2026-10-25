@@ -15,11 +15,18 @@ Puoi scaricare e sperimentare il progetto localmente. Se desideri pubblicare una
 
 Per proporre miglioramenti, apri una **Issue** o una **Pull request** nel repository che ospita l'applicazione. Sono particolarmente utili segnalazioni su accessibilità, chiarezza dei casi, compatibilità con i browser e nuove situazioni d'uso.
 
-## Risorse collegate
+## 📄 Licenza
 
-Se questi materiali ti sono utili, puoi seguire anche il resto del lavoro che faccio su AI generativa e divulgazione:
+Da definire: si suggerisce una licenza aperta (es. MIT o CC BY 4.0) per favorire il riuso da parte di altri enti. Sostituisci questo paragrafo con il testo della licenza scelta e il file `LICENSE` del repo.
 
-- **Newsletter** – https://gigicogo.substack.com - approfondimenti, casi d’uso e strumenti su AI generativa e content creation.  
-- **Articoli** – https://webeconoscenza.gigicogo.it - guide e riflessioni su Medium / blog, con esempi pratici di utilizzo delle skill.  
-- **Video e podcast** – https://www.youtube.com/@gigicogo - Guide, interviste e tutorial su IA Generativa.
+## 👤 Autore e contesto
+
+**Gianluigi Cogo** — consulente e docente sui temi dell'IA generativa nella Pubblica Amministrazione.
+
+L'app nasce come esercitazione della **Giornata 1** del percorso operativo *"L'IA nella Pubblica Amministrazione — Percorso operativo per l'uso consapevole, sicuro e governato dell'IA generativa"* (20 ore: percorso base per funzionari ed esecutori + modulo governance per direttori e dirigenti).
+
+- 📮 Newsletter: [gigicogo.substack.com](https://gigicogo.substack.com)
+- 📝 Blog: [medium.com/webeconoscenza](https://medium.com/webeconoscenza)
+- ▶️ YouTube: [youtube.com/@gigicogo](https://www.youtube.com/@gigicogo)
+- 💼 LinkedIn: [linkedin.com/in/gigicogo](https://it.linkedin.com/in/gigicogo)
 
